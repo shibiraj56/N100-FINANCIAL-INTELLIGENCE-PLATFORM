@@ -1,0 +1,344 @@
+================================================================================
+N100 FINANCIAL INTELLIGENCE PLATFORM - RATIO ENGINE EDGE CASE AUDIT LOG
+Sprint 2 Deliverable · Generated automatically by RatioEngine
+================================================================================
+
+[FINANCIALS CARVE-OUT] Company: AXISBANK | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: BAJAJFINSV | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: BAJAJHLDNG | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: BAJFINANCE | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: BANKBARODA | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: CANBK | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: CHOLAFIN | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: HDFCBANK | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: HDFCLIFE | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: ICICIBANK | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: ICICIGI | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: ICICIPRULI | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: INDUSINDBK | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: IRFC | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: JIOFIN | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: KOTAKBANK | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: LICI | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: PFC | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: PNB | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: RECLTD | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: SBILIFE | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: SBIN | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[FINANCIALS CARVE-OUT] Company: SHRIRAMFIN | Year: ALL | Broad sector is Financials: High leverage warning flag suppressed
+[DATA SOURCE ISSUE] Company: TCS | Year: COMPANIES_MASTER | companies.xlsx shows roe_percentage=0.52 (expected ~50%); using computed Ratio Engine value
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2012-12 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2012-12 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2014-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2014-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2015-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2015-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2016-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ABB | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DIVISION BY ZERO] Company: ADANIENSOL | Year: 2014-03 | Zero or negative sales (0.0); Net Profit Margin set to None
+[DEBT FREE SUBSTITUTION] Company: ADANIENSOL | Year: 2014-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ADANIENSOL | Year: 2014-03 | Interest=0; ICR label assigned 'Debt Free'
+[CAGR ANOMALY / TURNAROUND] Company: ADANIENSOL | Year: 2020-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIGREEN | Year: 2022-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIGREEN | Year: 2023-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIGREEN | Year: 2023-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIGREEN | Year: 2024-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIGREEN | Year: 2024-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DATA SOURCE ISSUE] Company: ADANIPOWER | Year: 2017-03 | Outlier ROE calculated: -205.80% (P&L net_profit=-6174.0, BS total_equity=3000.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: ADANIPOWER | Year: 2018-03 | Outlier ROE calculated: -236.56% (P&L net_profit=-2103.0, BS total_equity=889.0). Likely balance sheet scaling or extreme capital restructuring.
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2018-03 | 5Y PAT CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2018-03 | 5Y EPS CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2019-03 | 5Y PAT CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2019-03 | 5Y EPS CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2020-03 | 5Y PAT CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2020-03 | 5Y EPS CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2022-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2022-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2023-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2023-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2024-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: ADANIPOWER | Year: 2024-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2013-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2013-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2014-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2014-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2015-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2015-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2016-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2016-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2017-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2018-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BAJAJHLDNG | Year: 2019-03 | Interest=0; ICR label assigned 'Debt Free'
+[CAGR ANOMALY / TURNAROUND] Company: BANKBARODA | Year: 2018-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: BANKBARODA | Year: 2018-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: BANKBARODA | Year: 2021-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: BANKBARODA | Year: 2021-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: BANKBARODA | Year: 2023-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: BANKBARODA | Year: 2023-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DATA SOURCE ISSUE] Company: BEL | Year: 2013-03 | Outlier ROE calculated: 15183.33% (P&L net_profit=911.0, BS total_equity=6.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2014-03 | Outlier ROE calculated: 13600.00% (P&L net_profit=952.0, BS total_equity=7.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2015-03 | Outlier ROE calculated: 17100.00% (P&L net_profit=1197.0, BS total_equity=7.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2016-03 | Outlier ROE calculated: 11141.67% (P&L net_profit=1337.0, BS total_equity=12.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2017-03 | Outlier ROE calculated: 10153.33% (P&L net_profit=1523.0, BS total_equity=15.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2018-03 | Outlier ROE calculated: 4616.13% (P&L net_profit=1431.0, BS total_equity=31.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2019-03 | Outlier ROE calculated: 3851.02% (P&L net_profit=1887.0, BS total_equity=49.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2020-03 | Outlier ROE calculated: 3318.18% (P&L net_profit=1825.0, BS total_equity=55.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2021-03 | Outlier ROE calculated: 3559.32% (P&L net_profit=2100.0, BS total_equity=59.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2022-03 | Outlier ROE calculated: 3478.26% (P&L net_profit=2400.0, BS total_equity=69.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2023-03 | Outlier ROE calculated: 3981.33% (P&L net_profit=2986.0, BS total_equity=75.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: BEL | Year: 2024-03 | Outlier ROE calculated: 4744.05% (P&L net_profit=3985.0, BS total_equity=84.0). Likely balance sheet scaling or extreme capital restructuring.
+[CAGR ANOMALY / TURNAROUND] Company: BHARTIARTL | Year: 2020-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: BHARTIARTL | Year: 2020-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: BHARTIARTL | Year: 2021-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: BHARTIARTL | Year: 2021-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: BHEL | Year: 2020-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: BHEL | Year: 2020-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: BHEL | Year: 2021-03 | 5Y PAT CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: BHEL | Year: 2021-03 | 5Y EPS CAGR encountered condition: BOTH_NEGATIVE
+[DEBT FREE SUBSTITUTION] Company: BOSCHLTD | Year: 2013-12 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: BOSCHLTD | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BOSCHLTD | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: BOSCHLTD | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[CAGR ANOMALY / TURNAROUND] Company: CANBK | Year: 2018-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: CANBK | Year: 2018-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: CANBK | Year: 2020-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: CANBK | Year: 2020-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: CANBK | Year: 2021-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: CANBK | Year: 2021-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: CANBK | Year: 2023-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: CANBK | Year: 2023-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DEBT FREE SUBSTITUTION] Company: CHOLAFIN | Year: 2015-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: CHOLAFIN | Year: 2018-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: CHOLAFIN | Year: 2020-03 | Interest=0; ICR label assigned 'Debt Free'
+[CAGR ANOMALY / TURNAROUND] Company: DLF | Year: 2020-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: DLF | Year: 2020-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: GODREJCP | Year: 2024-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: GODREJCP | Year: 2024-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[DATA SOURCE ISSUE] Company: HAL | Year: 2016-03 | Outlier ROE calculated: 1665.00% (P&L net_profit=1998.0, BS total_equity=120.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HAL | Year: 2017-03 | Outlier ROE calculated: 1966.92% (P&L net_profit=2616.0, BS total_equity=133.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HAL | Year: 2018-03 | Outlier ROE calculated: 1528.46% (P&L net_profit=1987.0, BS total_equity=130.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HAL | Year: 2019-03 | Outlier ROE calculated: 1763.91% (P&L net_profit=2346.0, BS total_equity=133.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HAL | Year: 2020-03 | Outlier ROE calculated: 2059.42% (P&L net_profit=2842.0, BS total_equity=138.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HAL | Year: 2021-03 | Outlier ROE calculated: 2249.31% (P&L net_profit=3239.0, BS total_equity=144.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HAL | Year: 2022-03 | Outlier ROE calculated: 3324.18% (P&L net_profit=5086.0, BS total_equity=153.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HAL | Year: 2023-03 | Outlier ROE calculated: 3283.05% (P&L net_profit=5811.0, BS total_equity=177.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HAL | Year: 2024-03 | Outlier ROE calculated: 3816.58% (P&L net_profit=7595.0, BS total_equity=199.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: HDFCLIFE | Year: 2013-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HDFCLIFE | Year: 2014-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HDFCLIFE | Year: 2015-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HDFCLIFE | Year: 2016-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HDFCLIFE | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HDFCLIFE | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HDFCLIFE | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HDFCLIFE | Year: 2020-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[CAGR ANOMALY / TURNAROUND] Company: HINDALCO | Year: 2021-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: HINDALCO | Year: 2021-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DATA SOURCE ISSUE] Company: HINDUNILVR | Year: 2013-03 | Outlier ROE calculated: 134.00% (P&L net_profit=3839.0, BS total_equity=2865.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HINDUNILVR | Year: 2014-03 | Outlier ROE calculated: 111.85% (P&L net_profit=3956.0, BS total_equity=3537.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: HINDUNILVR | Year: 2015-03 | Outlier ROE calculated: 108.67% (P&L net_profit=4376.0, BS total_equity=4027.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: HINDUNILVR | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HINDUNILVR | Year: 2020-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: HINDUNILVR | Year: 2021-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIGI | Year: 2013-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIGI | Year: 2014-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIGI | Year: 2015-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIGI | Year: 2016-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIGI | Year: 2016-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: ICICIGI | Year: 2024-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2013-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2014-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2015-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2016-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2020-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: ICICIPRULI | Year: 2024-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2013-03 | Outlier ROE calculated: 17886.36% (P&L net_profit=787.0, BS total_equity=4.4). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2014-03 | Outlier ROE calculated: 10772.73% (P&L net_profit=474.0, BS total_equity=4.4). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2015-03 | Outlier ROE calculated: 4939.39% (P&L net_profit=1304.0, BS total_equity=26.4). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2016-03 | Outlier ROE calculated: 1534.78% (P&L net_profit=1986.0, BS total_equity=129.4). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2017-03 | Outlier ROE calculated: 1692.86% (P&L net_profit=1659.0, BS total_equity=98.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2018-03 | Outlier ROE calculated: 2242.00% (P&L net_profit=2242.0, BS total_equity=100.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2019-03 | Outlier ROE calculated: 120.93% (P&L net_profit=156.0, BS total_equity=129.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2020-03 | Outlier ROE calculated: -138.55% (P&L net_profit=-248.0, BS total_equity=179.0). Likely balance sheet scaling or extreme capital restructuring.
+[CAGR ANOMALY / TURNAROUND] Company: INDIGO | Year: 2020-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: INDIGO | Year: 2020-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2021-03 | Outlier ROE calculated: -1094.15% (P&L net_profit=-6171.0, BS total_equity=564.0). Likely balance sheet scaling or extreme capital restructuring.
+[CAGR ANOMALY / TURNAROUND] Company: INDIGO | Year: 2021-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: INDIGO | Year: 2021-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: INDIGO | Year: 2022-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: INDIGO | Year: 2022-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: INDIGO | Year: 2023-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: INDIGO | Year: 2023-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[DATA SOURCE ISSUE] Company: INDIGO | Year: 2024-03 | Outlier ROE calculated: 892.57% (P&L net_profit=8167.0, BS total_equity=915.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2013-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2014-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2015-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2016-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2016-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2017-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2018-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: INFY | Year: 2019-03 | Interest=0; ICR label assigned 'Debt Free'
+[CAGR ANOMALY / TURNAROUND] Company: IOC | Year: 2020-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: IOC | Year: 2020-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[DEBT FREE SUBSTITUTION] Company: IRCTC | Year: 2015-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: IRCTC | Year: 2015-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: IRCTC | Year: 2016-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: IRCTC | Year: 2016-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: IRCTC | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: IRCTC | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: IRCTC | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: IRCTC | Year: 2020-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2018-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2018-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2019-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2019-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2020-03 | 5Y PAT CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2020-03 | 5Y EPS CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2021-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2021-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2022-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2022-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2023-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2023-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2024-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: JINDALSTEL | Year: 2024-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DEBT FREE SUBSTITUTION] Company: JIOFIN | Year: 2023-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: JIOFIN | Year: 2024-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: JIOFIN | Year: 2024-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: JIOFIN | Year: TTM | Interest=0; ICR label assigned 'Debt Free'
+[CAGR ANOMALY / TURNAROUND] Company: JSWENERGY | Year: 2018-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: JSWSTEEL | Year: 2021-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: JSWSTEEL | Year: 2021-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DATA SOURCE ISSUE] Company: LICI | Year: 2019-03 | Outlier ROE calculated: 324.32% (P&L net_profit=2627.0, BS total_equity=810.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: LICI | Year: 2019-03 | Interest=0; ICR label assigned 'Debt Free'
+[DATA SOURCE ISSUE] Company: LICI | Year: 2020-03 | Outlier ROE calculated: 270.46% (P&L net_profit=2710.0, BS total_equity=1002.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: LICI | Year: 2020-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: LICI | Year: 2021-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: LICI | Year: 2022-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: LICI | Year: 2023-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: LICI | Year: 2024-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: LICI | Year: TTM | Interest=0; ICR label assigned 'Debt Free'
+[DATA SOURCE ISSUE] Company: LT | Year: 2013-03 | Outlier ROE calculated: 395.15% (P&L net_profit=5291.0, BS total_equity=1339.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: LT | Year: 2014-03 | Outlier ROE calculated: 303.42% (P&L net_profit=4885.0, BS total_equity=1610.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: LT | Year: 2015-03 | Outlier ROE calculated: 245.11% (P&L net_profit=4966.0, BS total_equity=2026.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: LT | Year: 2016-03 | Outlier ROE calculated: 216.09% (P&L net_profit=4592.0, BS total_equity=2125.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: LT | Year: 2017-03 | Outlier ROE calculated: 206.30% (P&L net_profit=6486.0, BS total_equity=3144.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: LT | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DATA SOURCE ISSUE] Company: LT | Year: 2018-03 | Outlier ROE calculated: 207.36% (P&L net_profit=8004.0, BS total_equity=3860.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: LT | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DATA SOURCE ISSUE] Company: LT | Year: 2019-03 | Outlier ROE calculated: 208.81% (P&L net_profit=10217.0, BS total_equity=4893.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: LT | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DATA SOURCE ISSUE] Company: LT | Year: 2020-03 | Outlier ROE calculated: 201.59% (P&L net_profit=10894.0, BS total_equity=5404.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: LT | Year: 2021-03 | Outlier ROE calculated: 176.90% (P&L net_profit=12921.0, BS total_equity=7304.0). Likely balance sheet scaling or extreme capital restructuring.
+[DEBT FREE SUBSTITUTION] Company: LTIM | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: LTIM | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: LTIM | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[CAGR ANOMALY / TURNAROUND] Company: M&M | Year: 2020-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: NAUKRI | Year: 2020-03 | 5Y PAT CAGR encountered condition: BOTH_NEGATIVE
+[CAGR ANOMALY / TURNAROUND] Company: NAUKRI | Year: 2020-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: NAUKRI | Year: 2022-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: NAUKRI | Year: 2022-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: NAUKRI | Year: 2023-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: NAUKRI | Year: 2023-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[DATA SOURCE ISSUE] Company: NESTLEIND | Year: 2019-12 | Outlier ROE calculated: 102.61% (P&L net_profit=1968.0, BS total_equity=1918.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: NESTLEIND | Year: 2020-12 | Outlier ROE calculated: 103.12% (P&L net_profit=2082.0, BS total_equity=2019.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: NESTLEIND | Year: 2021-12 | Outlier ROE calculated: 108.84% (P&L net_profit=2118.0, BS total_equity=1946.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: NESTLEIND | Year: 2023-12 | Outlier ROE calculated: 121.96% (P&L net_profit=2999.0, BS total_equity=2459.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: NESTLEIND | Year: 2024-03 | Outlier ROE calculated: 117.75% (P&L net_profit=3933.0, BS total_equity=3340.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: PNB | Year: 2013-03 | Outlier ROE calculated: 812.30% (P&L net_profit=5020.0, BS total_equity=618.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: PNB | Year: 2014-03 | Outlier ROE calculated: 393.36% (P&L net_profit=3674.0, BS total_equity=934.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: PNB | Year: 2015-03 | Outlier ROE calculated: 223.24% (P&L net_profit=3525.0, BS total_equity=1579.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: PNB | Year: 2016-03 | Outlier ROE calculated: -163.56% (P&L net_profit=-3510.0, BS total_equity=2146.0). Likely balance sheet scaling or extreme capital restructuring.
+[DATA SOURCE ISSUE] Company: PNB | Year: 2018-03 | Outlier ROE calculated: -184.37% (P&L net_profit=-12111.0, BS total_equity=6569.0). Likely balance sheet scaling or extreme capital restructuring.
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2018-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2018-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[DATA SOURCE ISSUE] Company: PNB | Year: 2019-03 | Outlier ROE calculated: -128.45% (P&L net_profit=-9550.0, BS total_equity=7435.0). Likely balance sheet scaling or extreme capital restructuring.
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2019-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2019-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2021-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2021-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2023-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2023-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2024-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: PNB | Year: 2024-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2013-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2014-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2015-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2016-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2017-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2018-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2019-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2020-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2020-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2021-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2021-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2022-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2022-03 | Interest=0; ICR label assigned 'Debt Free'
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2023-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2024-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: 2024-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SBILIFE | Year: TTM | Interest=0; ICR label assigned 'Debt Free'
+[CAGR ANOMALY / TURNAROUND] Company: SBIN | Year: 2018-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: SBIN | Year: 2018-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: SBIN | Year: 2022-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: SBIN | Year: 2023-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: SBIN | Year: 2023-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[DEBT FREE SUBSTITUTION] Company: SIEMENS | Year: 2011-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SIEMENS | Year: 2014-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SIEMENS | Year: 2017-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SIEMENS | Year: 2018-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SIEMENS | Year: 2019-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[DEBT FREE SUBSTITUTION] Company: SIEMENS | Year: 2020-09 | Borrowings=0; Debt-to-Equity assigned 0.0
+[CAGR ANOMALY / TURNAROUND] Company: TATACONSUM | Year: 2021-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2019-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2019-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2020-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2020-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2021-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2021-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2022-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2022-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2024-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATAMOTORS | Year: 2024-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATAPOWER | Year: 2019-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2018-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2018-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2020-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2020-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2021-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2022-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2022-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2024-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TATASTEEL | Year: 2024-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[DEBT FREE SUBSTITUTION] Company: TITAN | Year: 2013-03 | Borrowings=0; Debt-to-Equity assigned 0.0
+[CAGR ANOMALY / TURNAROUND] Company: TRENT | Year: 2018-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TRENT | Year: 2018-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TRENT | Year: 2019-03 | 5Y PAT CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TRENT | Year: 2019-03 | 5Y EPS CAGR encountered condition: TURNAROUND
+[CAGR ANOMALY / TURNAROUND] Company: TRENT | Year: 2021-03 | 5Y PAT CAGR encountered condition: DECLINE_TO_LOSS
+[CAGR ANOMALY / TURNAROUND] Company: TRENT | Year: 2021-03 | 5Y EPS CAGR encountered condition: DECLINE_TO_LOSS
+[FORMULA DISCREPANCY] Company: BAJAJFINSV | Year: 2024-03 | Difference 14.13% (source=11.72%, computed=25.85%): likely due to average vs closing equity or minority interest treatment
+[DATA SOURCE ISSUE] Company: BEL | Year: 2024-03 | Source shows 26.30% vs computed 4744.05% (Balance sheet capital scaling variance)
+[VERSION DIFFERENCE] Company: GODREJCP | Year: 2024-03 | Source snapshot uses normalised/TTM profit (6.77%) whereas 2024-03 FY reported loss (-4.45%)
+[DATA SOURCE ISSUE] Company: HAL | Year: 2024-03 | Source shows 28.90% vs computed 3816.58% (Balance sheet capital scaling variance)
+[FORMULA DISCREPANCY] Company: LICI | Year: 2024-03 | Difference 14.16% (source=63.61%, computed=49.45%): likely due to average vs closing equity or minority interest treatment
+[FORMULA DISCREPANCY] Company: LT | Year: 2024-03 | Difference 67.18% (source=10.49%, computed=77.67%): likely due to average vs closing equity or minority interest treatment
+[FORMULA DISCREPANCY] Company: NESTLEIND | Year: 2024-03 | Difference 17.86% (source=135.61%, computed=117.75%): likely due to average vs closing equity or minority interest treatment
+[FORMULA DISCREPANCY] Company: PNB | Year: 2024-03 | Difference 52.62% (source=8.70%, computed=61.32%): likely due to average vs closing equity or minority interest treatment
+[FORMULA DISCREPANCY] Company: TATAMOTORS | Year: 2024-03 | Difference 11.94% (source=49.40%, computed=37.46%): likely due to average vs closing equity or minority interest treatment
+[VERSION DIFFERENCE] Company: TATASTEEL | Year: 2024-03 | Source snapshot uses normalised/TTM profit (6.55%) whereas 2024-03 FY reported loss (-5.33%)
+[DATA SOURCE ISSUE] Company: TCS | Year: 2024-03 | Source shows 0.52% vs computed 50.94% (TCS decimal reporting error in source)
+
+================================================================================
+Total Edge Case Records Logged: 335
+================================================================================

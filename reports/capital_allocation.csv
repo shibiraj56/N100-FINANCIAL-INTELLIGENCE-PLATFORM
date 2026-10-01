@@ -1,0 +1,1057 @@
+company_id,year,cfo_sign,cfi_sign,cff_sign,pattern_label,cfo_cr,cfi_cr,cff_cr,fcf_cr
+ABB,2012-12,+,-,-,Reinvestor,101.0,-59.0,-42.0,42.0
+ABB,2014-03,+,+,+,Cash Accumulator,0.0,0.0,0.0,0.0
+ABB,2015-03,-,-,+,Growth Funded by Debt,-35.0,-1864.0,1902.0,-1899.0
+ABB,2016-03,+,-,-,Shareholder Returns,1544.0,-816.0,-722.0,728.0
+ABB,2017-03,+,-,-,Shareholder Returns,2189.0,-1730.0,-455.0,459.0
+ABB,2018-03,+,-,+,Growth / Mixed,2198.0,-3192.0,1589.0,-994.0
+ABB,2019-03,+,-,+,Growth / Mixed,2591.0,-3050.0,38.0,-459.0
+ABB,2020-03,+,-,+,Growth / Mixed,5437.0,-5643.0,1250.0,-206.0
+ABB,2021-03,+,-,-,Shareholder Returns,3784.0,-4009.0,-745.0,-225.0
+ABB,2022-03,+,-,-,Shareholder Returns,4097.0,-3936.0,-235.0,161.0
+ABB,2023-03,+,-,+,Growth / Mixed,3777.0,-4699.0,923.0,-922.0
+ABB,2024-03,+,-,-,Shareholder Returns,6038.0,-4943.0,-543.0,1095.0
+ADANIENSOL,2014-03,+,+,+,Cash Accumulator,0.0,0.0,0.0,0.0
+ADANIENSOL,2015-03,-,-,+,Growth Funded by Debt,-35.0,-1864.0,1902.0,-1899.0
+ADANIENSOL,2016-03,+,-,-,Shareholder Returns,1544.0,-816.0,-722.0,728.0
+ADANIENSOL,2017-03,+,-,-,Shareholder Returns,2189.0,-1730.0,-455.0,459.0
+ADANIENSOL,2018-03,+,-,+,Growth / Mixed,2198.0,-3192.0,1589.0,-994.0
+ADANIENSOL,2019-03,+,-,+,Growth / Mixed,2591.0,-3050.0,38.0,-459.0
+ADANIENSOL,2020-03,+,-,+,Growth / Mixed,5437.0,-5643.0,1250.0,-206.0
+ADANIENSOL,2021-03,+,-,-,Shareholder Returns,3784.0,-4009.0,-745.0,-225.0
+ADANIENSOL,2022-03,+,-,-,Shareholder Returns,4097.0,-3936.0,-235.0,161.0
+ADANIENSOL,2023-03,+,-,+,Growth / Mixed,3777.0,-4699.0,923.0,-922.0
+ADANIENSOL,2024-03,+,-,-,Shareholder Returns,6038.0,-4943.0,-543.0,1095.0
+ADANIENT,2013-03,+,-,+,Growth / Mixed,7666.0,-14790.0,7199.0,-7124.0
+ADANIENT,2014-03,+,-,-,Shareholder Returns,8228.0,-8007.0,-1109.0,221.0
+ADANIENT,2015-03,+,-,+,Growth / Mixed,8532.0,-11465.0,3445.0,-2933.0
+ADANIENT,2016-03,+,-,-,Shareholder Returns,5112.0,-1825.0,-3448.0,3287.0
+ADANIENT,2017-03,+,-,+,Growth / Mixed,774.0,-1460.0,716.0,-686.0
+ADANIENT,2018-03,+,-,+,Growth / Mixed,2942.0,-7649.0,5120.0,-4707.0
+ADANIENT,2019-03,+,+,-,Liquidating Assets,3236.0,2487.0,-6158.0,5723.0
+ADANIENT,2020-03,+,-,-,Shareholder Returns,2454.0,-1082.0,-221.0,1372.0
+ADANIENT,2021-03,+,-,+,Growth / Mixed,4043.0,-8611.0,3109.0,-4568.0
+ADANIENT,2022-03,+,-,+,Growth / Mixed,1385.0,-17041.0,15901.0,-15656.0
+ADANIENT,2023-03,+,-,-,Shareholder Returns,17626.0,-15459.0,-1198.0,2167.0
+ADANIENT,2024-03,+,-,+,Growth / Mixed,10312.0,-18767.0,8879.0,-8455.0
+ADANIGREEN,2017-03,+,-,+,Growth / Mixed,28.0,-1511.0,1559.0,-1483.0
+ADANIGREEN,2018-03,+,-,+,Growth / Mixed,649.0,-4428.0,3942.0,-3779.0
+ADANIGREEN,2019-03,+,-,+,Growth / Mixed,1625.0,-2666.0,1045.0,-1041.0
+ADANIGREEN,2020-03,+,-,+,Growth / Mixed,1965.0,-3743.0,2161.0,-1778.0
+ADANIGREEN,2021-03,+,-,+,Growth / Mixed,1601.0,-9137.0,7083.0,-7536.0
+ADANIGREEN,2022-03,+,-,+,Growth / Mixed,3127.0,-18730.0,15986.0,-15603.0
+ADANIGREEN,2023-03,+,-,-,Shareholder Returns,7265.0,-3857.0,-2973.0,3408.0
+ADANIGREEN,2024-03,+,-,+,Growth / Mixed,7713.0,-21060.0,13953.0,-13347.0
+ADANIPORTS,2013-03,+,-,+,Growth / Mixed,1379.0,-5136.0,4138.0,-3757.0
+ADANIPORTS,2014-03,+,-,+,Growth / Mixed,1132.0,-2510.0,772.0,-1378.0
+ADANIPORTS,2015-03,+,-,-,Shareholder Returns,3057.0,-2485.0,-237.0,572.0
+ADANIPORTS,2016-03,+,-,+,Growth / Mixed,2381.0,-4153.0,2170.0,-1772.0
+ADANIPORTS,2017-03,+,-,-,Shareholder Returns,4063.0,-2629.0,-1325.0,1434.0
+ADANIPORTS,2018-03,+,-,-,Shareholder Returns,5608.0,-3846.0,-1889.0,1762.0
+ADANIPORTS,2019-03,+,-,+,Growth / Mixed,6029.0,-4368.0,2313.0,1661.0
+ADANIPORTS,2020-03,+,-,-,Shareholder Returns,7402.0,-749.0,-4256.0,6653.0
+ADANIPORTS,2021-03,+,-,+,Growth / Mixed,7556.0,-14064.0,3514.0,-6508.0
+ADANIPORTS,2022-03,+,-,-,Shareholder Returns,10420.0,-5493.0,-586.0,4927.0
+ADANIPORTS,2023-03,+,-,-,Shareholder Returns,11900.0,-16716.0,-2734.0,-4816.0
+ADANIPORTS,2024-03,+,-,-,Shareholder Returns,15018.0,-6768.0,-7800.0,8250.0
+ADANIPOWER,2013-03,+,-,+,Growth / Mixed,3001.0,-4064.0,861.0,-1063.0
+ADANIPOWER,2014-03,+,-,+,Growth / Mixed,3238.0,-4700.0,1631.0,-1462.0
+ADANIPOWER,2015-03,+,-,-,Reinvestor,5824.0,-4737.0,-1144.0,1087.0
+ADANIPOWER,2016-03,+,-,-,Shareholder Returns,5257.0,-2692.0,-2713.0,2565.0
+ADANIPOWER,2017-03,+,-,-,Reinvestor,4725.0,-1212.0,-3539.0,3513.0
+ADANIPOWER,2018-03,+,-,-,Reinvestor,5101.0,-520.0,-4600.0,4581.0
+ADANIPOWER,2019-03,+,-,-,Reinvestor,5610.0,-984.0,-4663.0,4626.0
+ADANIPOWER,2020-03,+,-,-,Reinvestor,5598.0,-2304.0,-2377.0,3294.0
+ADANIPOWER,2021-03,+,-,-,Shareholder Returns,7014.0,-2188.0,-5655.0,4826.0
+ADANIPOWER,2022-03,+,+,-,Liquidating Assets,10233.0,774.0,-10338.0,11007.0
+ADANIPOWER,2023-03,+,+,-,Liquidating Assets,8431.0,1545.0,-10408.0,9976.0
+ADANIPOWER,2024-03,+,+,-,Liquidating Assets,14170.0,3481.0,-16864.0,17651.0
+AMBUJACEM,2012-12,+,-,-,Shareholder Returns,1860.0,-388.0,-509.0,1472.0
+AMBUJACEM,2013-12,+,-,-,Reinvestor,1267.0,-496.0,-672.0,771.0
+AMBUJACEM,2014-12,+,-,-,Shareholder Returns,1675.0,-456.0,-721.0,1219.0
+AMBUJACEM,2015-12,+,-,-,Shareholder Returns,1557.0,-83.0,-900.0,1474.0
+AMBUJACEM,2016-12,+,-,-,Shareholder Returns,2810.0,-4165.0,-958.0,-1355.0
+AMBUJACEM,2017-12,+,-,-,Shareholder Returns,3416.0,-738.0,-1015.0,2678.0
+AMBUJACEM,2018-12,+,-,-,Reinvestor,1703.0,-765.0,-719.0,938.0
+AMBUJACEM,2019-12,+,-,-,Shareholder Returns,4739.0,-1191.0,-629.0,3548.0
+AMBUJACEM,2020-12,+,-,-,Shareholder Returns,4832.0,-1317.0,-3956.0,3515.0
+AMBUJACEM,2021-12,+,-,-,Shareholder Returns,5309.0,-2007.0,-516.0,3302.0
+AMBUJACEM,2023-03,+,-,+,Growth / Mixed,735.0,-14481.0,2931.0,-13746.0
+AMBUJACEM,2024-03,+,-,+,Growth / Mixed,5646.0,-8941.0,5689.0,-3295.0
+APOLLOHOSP,2013-03,+,-,+,Growth / Mixed,443.0,-733.0,373.0,-290.0
+APOLLOHOSP,2014-03,+,-,-,Shareholder Returns,373.0,-356.0,-63.0,17.0
+APOLLOHOSP,2015-03,+,-,+,Growth / Mixed,470.0,-759.0,392.0,-289.0
+APOLLOHOSP,2016-03,+,-,+,Growth / Mixed,597.0,-888.0,330.0,-291.0
+APOLLOHOSP,2017-03,+,-,+,Growth / Mixed,623.0,-1152.0,477.0,-529.0
+APOLLOHOSP,2018-03,+,-,-,Shareholder Returns,537.0,-405.0,-108.0,132.0
+APOLLOHOSP,2019-03,+,-,-,Shareholder Returns,905.0,-711.0,-215.0,194.0
+APOLLOHOSP,2020-03,+,-,-,Shareholder Returns,1293.0,-289.0,-910.0,1004.0
+APOLLOHOSP,2021-03,+,-,-,Shareholder Returns,1265.0,-880.0,-340.0,385.0
+APOLLOHOSP,2022-03,+,-,-,Shareholder Returns,1696.0,-747.0,-792.0,949.0
+APOLLOHOSP,2023-03,+,-,-,Shareholder Returns,1377.0,-857.0,-633.0,520.0
+APOLLOHOSP,2024-03,+,-,-,Shareholder Returns,1920.0,-1537.0,-311.0,383.0
+ASIANPAINT,2013-03,+,-,-,Shareholder Returns,1187.0,-463.0,-601.0,724.0
+ASIANPAINT,2014-03,+,-,-,Shareholder Returns,1402.0,-586.0,-626.0,816.0
+ASIANPAINT,2015-03,+,-,-,Reinvestor,1188.0,-465.0,-576.0,723.0
+ASIANPAINT,2016-03,+,-,-,Shareholder Returns,2243.0,-866.0,-849.0,1377.0
+ASIANPAINT,2017-03,+,-,-,Reinvestor,1527.0,-681.0,-756.0,846.0
+ASIANPAINT,2018-03,+,-,-,Shareholder Returns,2113.0,-1556.0,-1379.0,557.0
+ASIANPAINT,2019-03,+,-,-,Shareholder Returns,2470.0,-918.0,-1117.0,1552.0
+ASIANPAINT,2020-03,+,-,-,Shareholder Returns,3038.0,-518.0,-2871.0,2520.0
+ASIANPAINT,2021-03,+,-,-,Shareholder Returns,3683.0,-541.0,-650.0,3142.0
+ASIANPAINT,2022-03,+,-,-,Reinvestor,986.0,-317.0,-1808.0,669.0
+ASIANPAINT,2023-03,+,-,-,Reinvestor,4193.0,-1282.0,-2140.0,2911.0
+ASIANPAINT,2024-03,+,-,-,Shareholder Returns,6104.0,-2548.0,-2982.0,3556.0
+AXISBANK,2013-03,+,-,+,Growth / Mixed,2573.0,-10939.0,14931.0,-8366.0
+AXISBANK,2014-03,+,-,+,Growth / Mixed,14464.0,-14166.0,7785.0,298.0
+AXISBANK,2015-03,-,-,+,Growth Funded by Debt,-15162.0,-7972.0,31045.0,-23134.0
+AXISBANK,2016-03,-,+,+,Distress Signal,-34495.0,9211.0,22495.0,-25284.0
+AXISBANK,2017-03,+,-,-,Shareholder Returns,32209.0,-12458.0,-2487.0,19751.0
+AXISBANK,2018-03,-,-,+,Growth Funded by Debt,-38390.0,-10007.0,41342.0,-48397.0
+AXISBANK,2019-03,+,-,+,Growth / Mixed,37125.0,-18674.0,5643.0,18451.0
+AXISBANK,2020-03,+,-,+,Growth / Mixed,30416.0,-9485.0,8865.0,20931.0
+AXISBANK,2021-03,+,-,+,Growth / Mixed,12633.0,-54288.0,7279.0,-41655.0
+AXISBANK,2022-03,+,-,+,Growth / Mixed,28137.0,-27112.0,47894.0,1025.0
+AXISBANK,2023-03,+,-,+,Growth / Mixed,22075.0,-32351.0,6641.0,-10276.0
+AXISBANK,2024-03,-,-,+,Growth Funded by Debt,-5555.0,-9001.0,22341.0,-14556.0
+BAJAJ-AUTO,2013-03,+,-,-,Reinvestor,2218.0,-1394.0,-1445.0,824.0
+BAJAJ-AUTO,2014-03,+,-,-,Shareholder Returns,3502.0,-2072.0,-1496.0,1430.0
+BAJAJ-AUTO,2015-03,+,-,-,Reinvestor,2114.0,-380.0,-1644.0,1734.0
+BAJAJ-AUTO,2016-03,+,-,-,Reinvestor,3690.0,-68.0,-3384.0,3622.0
+BAJAJ-AUTO,2017-03,+,-,-,Reinvestor,3267.0,-3610.0,-190.0,-343.0
+BAJAJ-AUTO,2018-03,+,-,-,Shareholder Returns,4328.0,-1954.0,-1885.0,2374.0
+BAJAJ-AUTO,2019-03,+,-,-,Reinvestor,2487.0,-273.0,-2074.0,2214.0
+BAJAJ-AUTO,2020-03,+,+,-,Liquidating Assets,3850.0,1766.0,-6247.0,5616.0
+BAJAJ-AUTO,2021-03,+,-,-,Reinvestor,3120.0,-2869.0,-20.0,251.0
+BAJAJ-AUTO,2022-03,+,+,-,Liquidating Assets,4197.0,276.0,-4056.0,4473.0
+BAJAJ-AUTO,2023-03,+,+,-,Liquidating Assets,5277.0,1211.0,-7181.0,6488.0
+BAJAJ-AUTO,2024-03,+,-,-,Reinvestor,6558.0,-72.0,-6167.0,6486.0
+BAJAJFINSV,2013-03,-,+,+,Distress Signal,-6922.0,2953.0,4592.0,-3969.0
+BAJAJFINSV,2014-03,-,+,+,Distress Signal,-9807.0,3764.0,6521.0,-6043.0
+BAJAJFINSV,2015-03,-,+,+,Distress Signal,-10731.0,3709.0,6839.0,-7022.0
+BAJAJFINSV,2016-03,-,-,+,Growth Funded by Debt,-9795.0,-886.0,11602.0,-10681.0
+BAJAJFINSV,2017-03,-,+,+,Distress Signal,-10922.0,151.0,12513.0,-10771.0
+BAJAJFINSV,2018-03,-,-,+,Growth Funded by Debt,-19580.0,-922.0,19590.0,-20502.0
+BAJAJFINSV,2019-03,-,-,+,Growth Funded by Debt,-27076.0,-6903.0,34535.0,-33979.0
+BAJAJFINSV,2020-03,-,-,+,Growth Funded by Debt,-23369.0,-9948.0,34479.0,-33317.0
+BAJAJFINSV,2021-03,+,-,+,Growth / Mixed,4547.0,-3684.0,1687.0,863.0
+BAJAJFINSV,2022-03,-,+,+,Distress Signal,-33670.0,1445.0,32326.0,-32225.0
+BAJAJFINSV,2023-03,-,-,+,Growth Funded by Debt,-39480.0,-13945.0,51016.0,-53425.0
+BAJAJFINSV,2024-03,-,-,+,Growth Funded by Debt,-68674.0,-10960.0,82709.0,-79634.0
+BAJAJHLDNG,2013-03,+,-,-,Reinvestor,473.0,-369.0,-332.0,104.0
+BAJAJHLDNG,2014-03,+,-,-,Reinvestor,872.0,-519.0,-326.0,353.0
+BAJAJHLDNG,2015-03,+,-,-,Reinvestor,796.0,-464.0,-391.0,332.0
+BAJAJHLDNG,2016-03,+,+,-,Liquidating Assets,1147.0,1019.0,-761.0,2166.0
+BAJAJHLDNG,2017-03,-,-,-,Pre-Revenue / Cash Burn,-923.0,-372.0,-110.0,-1295.0
+BAJAJHLDNG,2018-03,+,-,-,Reinvestor,1631.0,-1123.0,-434.0,508.0
+BAJAJHLDNG,2019-03,+,-,-,Reinvestor,628.0,-163.0,-536.0,465.0
+BAJAJHLDNG,2020-03,+,-,-,Reinvestor,1920.0,-800.0,-1028.0,1120.0
+BAJAJHLDNG,2021-03,+,-,-,Reinvestor,272.0,-308.0,-37.0,-36.0
+BAJAJHLDNG,2022-03,+,-,-,Reinvestor,1610.0,-151.0,-1460.0,1459.0
+BAJAJHLDNG,2023-03,+,-,-,Reinvestor,1728.0,-137.0,-1587.0,1591.0
+BAJAJHLDNG,2024-03,+,-,-,Reinvestor,1941.0,-472.0,-1455.0,1469.0
+BAJFINANCE,2015-03,-,-,+,Growth Funded by Debt,-7064.0,-360.0,6867.0,-7424.0
+BAJFINANCE,2016-03,-,-,+,Growth Funded by Debt,-9870.0,-687.0,11656.0,-10557.0
+BAJFINANCE,2017-03,-,-,+,Growth Funded by Debt,-10439.0,-3047.0,12513.0,-13486.0
+BAJFINANCE,2018-03,-,+,+,Distress Signal,-20566.0,1075.0,19503.0,-19491.0
+BAJFINANCE,2019-03,-,-,+,Growth Funded by Debt,-29062.0,-5379.0,34449.0,-34441.0
+BAJFINANCE,2020-03,-,-,+,Growth Funded by Debt,-24412.0,-8758.0,34167.0,-33170.0
+BAJFINANCE,2021-03,-,-,+,Growth Funded by Debt,-807.0,-429.0,1741.0,-1236.0
+BAJFINANCE,2022-03,-,+,+,Distress Signal,-37090.0,6347.0,32275.0,-30743.0
+BAJFINANCE,2023-03,-,-,+,Growth Funded by Debt,-42112.0,-10394.0,50675.0,-52506.0
+BAJFINANCE,2024-03,-,-,+,Growth Funded by Debt,-72760.0,-7171.0,82415.0,-79931.0
+BANKBARODA,2013-03,+,-,-,Shareholder Returns,23196.0,-514.0,-790.0,22682.0
+BANKBARODA,2014-03,+,-,+,Growth / Mixed,42233.0,-730.0,5151.0,41503.0
+BANKBARODA,2015-03,+,-,-,Shareholder Returns,17838.0,-556.0,-6.0,17282.0
+BANKBARODA,2016-03,-,-,-,Pre-Revenue / Cash Burn,-10011.0,-4005.0,-616.0,-14016.0
+BANKBARODA,2017-03,+,-,-,Shareholder Returns,17865.0,-551.0,-198.0,17314.0
+BANKBARODA,2018-03,-,-,+,Growth Funded by Debt,-59692.0,-414.0,3413.0,-60106.0
+BANKBARODA,2019-03,-,-,+,Growth Funded by Debt,-1449.0,-2537.0,4449.0,-3986.0
+BANKBARODA,2020-03,+,-,+,Growth / Mixed,18531.0,-139.0,14729.0,18392.0
+BANKBARODA,2021-03,-,-,-,Pre-Revenue / Cash Burn,-887.0,-471.0,-986.0,-1358.0
+BANKBARODA,2022-03,+,-,-,Reinvestor,6210.0,-3645.0,-998.0,2565.0
+BANKBARODA,2023-03,-,-,-,Pre-Revenue / Cash Burn,-21354.0,-1096.0,-5405.0,-22450.0
+BANKBARODA,2024-03,-,-,+,Growth Funded by Debt,-6274.0,-1285.0,5476.0,-7559.0
+BEL,2013-03,-,+,-,Restructuring,-1539.0,1753.0,-158.0,214.0
+BEL,2014-03,-,+,-,Restructuring,-569.0,759.0,-213.0,190.0
+BEL,2015-03,+,-,-,Shareholder Returns,1434.0,-839.0,-209.0,595.0
+BEL,2016-03,+,-,-,Shareholder Returns,2260.0,-1470.0,-318.0,790.0
+BEL,2017-03,-,+,-,Restructuring,-61.0,3115.0,-2857.0,3054.0
+BEL,2018-03,-,-,-,Pre-Revenue / Cash Burn,-687.0,-6.0,-1202.0,-693.0
+BEL,2019-03,+,-,-,Reinvestor,1514.0,-896.0,-663.0,618.0
+BEL,2020-03,+,-,-,Shareholder Returns,2570.0,-649.0,-1061.0,1921.0
+BEL,2021-03,+,-,-,Shareholder Returns,5093.0,-2595.0,-1076.0,2498.0
+BEL,2022-03,+,-,-,Shareholder Returns,4207.0,-4872.0,-1078.0,-665.0
+BEL,2023-03,+,+,-,Liquidating Assets,1199.0,2708.0,-1262.0,3907.0
+BEL,2024-03,+,-,-,Shareholder Returns,4659.0,-5924.0,-1475.0,-1265.0
+BHARTIARTL,2013-03,+,-,-,Shareholder Returns,22608.0,-18676.0,-4566.0,3932.0
+BHARTIARTL,2014-03,+,-,+,Growth / Mixed,26233.0,-25181.0,2774.0,1052.0
+BHARTIARTL,2015-03,+,-,-,Shareholder Returns,28059.0,-22301.0,-9672.0,5758.0
+BHARTIARTL,2016-03,+,-,-,Shareholder Returns,27942.0,-14091.0,-11946.0,13851.0
+BHARTIARTL,2017-03,+,-,-,Shareholder Returns,28280.0,-30680.0,-351.0,-2400.0
+BHARTIARTL,2018-03,+,-,+,Growth / Mixed,29854.0,-27940.0,1920.0,1914.0
+BHARTIARTL,2019-03,+,-,+,Growth / Mixed,20070.0,-28286.0,9464.0,-8216.0
+BHARTIARTL,2020-03,+,-,+,Growth / Mixed,18129.0,-29598.0,19144.0,-11469.0
+BHARTIARTL,2021-03,+,-,-,Reinvestor,48205.0,-27286.0,-24910.0,20919.0
+BHARTIARTL,2022-03,+,-,-,Shareholder Returns,55017.0,-41478.0,-15203.0,13539.0
+BHARTIARTL,2023-03,+,-,-,Shareholder Returns,65325.0,-39232.0,-24470.0,26093.0
+BHARTIARTL,2024-03,+,-,-,Shareholder Returns,78898.0,-51089.0,-27778.0,27809.0
+BHEL,2013-03,+,-,+,Growth / Mixed,1759.0,-1113.0,472.0,646.0
+BHEL,2014-03,+,-,+,Growth / Mixed,4512.0,-868.0,523.0,3644.0
+BHEL,2015-03,+,+,-,Liquidating Assets,821.0,650.0,-3543.0,1471.0
+BHEL,2016-03,+,+,-,Liquidating Assets,374.0,23.0,-122.0,397.0
+BHEL,2017-03,+,-,-,Shareholder Returns,560.0,-565.0,-468.0,-5.0
+BHEL,2018-03,+,+,-,Liquidating Assets,989.0,961.0,-667.0,1950.0
+BHEL,2019-03,-,+,-,Restructuring,-3860.0,1919.0,-32.0,-1941.0
+BHEL,2020-03,-,+,+,Distress Signal,-2892.0,1877.0,1622.0,-1015.0
+BHEL,2021-03,+,-,-,Reinvestor,560.0,-42.0,-394.0,518.0
+BHEL,2022-03,+,-,-,Shareholder Returns,660.0,-1118.0,-329.0,-458.0
+BHEL,2023-03,-,+,+,Distress Signal,-741.0,1480.0,89.0,739.0
+BHEL,2024-03,-,+,+,Distress Signal,-3713.0,1331.0,2656.0,-2382.0
+BOSCHLTD,2012-12,+,-,-,Reinvestor,871.0,-824.0,-156.0,47.0
+BOSCHLTD,2013-12,+,-,-,Shareholder Returns,1057.0,-846.0,-238.0,211.0
+BOSCHLTD,2015-03,+,-,-,Shareholder Returns,1396.0,-1183.0,-237.0,213.0
+BOSCHLTD,2016-03,+,-,-,Reinvestor,1318.0,-995.0,-356.0,323.0
+BOSCHLTD,2017-03,+,+,-,Liquidating Assets,1457.0,1246.0,-2670.0,2703.0
+BOSCHLTD,2018-03,+,-,-,Shareholder Returns,1729.0,-1170.0,-325.0,559.0
+BOSCHLTD,2019-03,+,+,-,Liquidating Assets,593.0,1766.0,-2531.0,2359.0
+BOSCHLTD,2020-03,+,-,-,Shareholder Returns,1336.0,-873.0,-399.0,463.0
+BOSCHLTD,2021-03,+,-,-,Shareholder Returns,835.0,-463.0,-338.0,372.0
+BOSCHLTD,2022-03,+,-,-,Reinvestor,271.0,-33.0,-383.0,238.0
+BOSCHLTD,2023-03,+,+,-,Liquidating Assets,1214.0,262.0,-1239.0,1476.0
+BOSCHLTD,2024-03,+,+,-,Liquidating Assets,1253.0,283.0,-1452.0,1536.0
+BPCL,2013-03,+,-,-,Shareholder Returns,5926.0,-3604.0,-846.0,2322.0
+BPCL,2014-03,+,-,-,Shareholder Returns,9588.0,-6881.0,-3736.0,2707.0
+BPCL,2015-03,+,-,-,Shareholder Returns,20742.0,-10536.0,-9792.0,10206.0
+BPCL,2016-03,+,-,-,Shareholder Returns,11119.0,-9233.0,-1332.0,1886.0
+BPCL,2017-03,+,-,+,Growth / Mixed,9041.0,-15274.0,4804.0,-6233.0
+BPCL,2018-03,+,-,-,Shareholder Returns,11068.0,-7066.0,-4218.0,4002.0
+BPCL,2019-03,+,-,+,Growth / Mixed,10157.0,-10451.0,207.0,-294.0
+BPCL,2020-03,+,-,+,Growth / Mixed,7881.0,-11135.0,3583.0,-3254.0
+BPCL,2021-03,+,-,-,Shareholder Returns,23455.0,-2474.0,-13981.0,20981.0
+BPCL,2022-03,+,-,-,Shareholder Returns,20336.0,-8138.0,-17672.0,12198.0
+BPCL,2023-03,+,-,-,Shareholder Returns,12466.0,-7806.0,-4402.0,4660.0
+BPCL,2024-03,+,-,-,Shareholder Returns,35936.0,-10521.0,-25427.0,25415.0
+BRITANNIA,2013-03,+,+,-,Liquidating Assets,320.0,28.0,-378.0,348.0
+BRITANNIA,2014-03,+,-,-,Shareholder Returns,671.0,-246.0,-357.0,425.0
+BRITANNIA,2015-03,+,-,-,Reinvestor,584.0,-450.0,-181.0,134.0
+BRITANNIA,2016-03,+,-,-,Shareholder Returns,959.0,-705.0,-246.0,254.0
+BRITANNIA,2017-03,+,-,-,Reinvestor,441.0,-150.0,-295.0,291.0
+BRITANNIA,2018-03,+,-,-,Shareholder Returns,1249.0,-957.0,-232.0,292.0
+BRITANNIA,2019-03,+,-,-,Shareholder Returns,1156.0,-852.0,-353.0,304.0
+BRITANNIA,2020-03,+,-,+,Growth / Mixed,1485.0,-1526.0,58.0,-41.0
+BRITANNIA,2021-03,+,+,-,Liquidating Assets,1876.0,433.0,-2242.0,2309.0
+BRITANNIA,2022-03,+,+,-,Liquidating Assets,1300.0,914.0,-2246.0,2214.0
+BRITANNIA,2023-03,+,-,-,Shareholder Returns,2526.0,-1507.0,-1028.0,1019.0
+BRITANNIA,2024-03,+,+,-,Liquidating Assets,2573.0,477.0,-2830.0,3050.0
+CANBK,2013-03,+,-,-,Shareholder Returns,8010.0,-435.0,-1043.0,7575.0
+CANBK,2014-03,+,-,-,Shareholder Returns,14244.0,-380.0,-3771.0,13864.0
+CANBK,2015-03,+,-,-,Shareholder Returns,6344.0,-1104.0,-1464.0,5240.0
+CANBK,2016-03,+,-,-,Reinvestor,9346.0,-443.0,-806.0,8903.0
+CANBK,2017-03,+,-,+,Growth / Mixed,2575.0,-476.0,124.0,2099.0
+CANBK,2018-03,-,-,+,Growth Funded by Debt,-11120.0,-487.0,2865.0,-11607.0
+CANBK,2019-03,+,-,-,Shareholder Returns,18237.0,-745.0,-1185.0,17492.0
+CANBK,2020-03,-,-,+,Growth Funded by Debt,-5289.0,-445.0,7792.0,-5734.0
+CANBK,2021-03,+,-,+,Growth / Mixed,59118.0,-1116.0,290.0,58002.0
+CANBK,2022-03,+,-,+,Growth / Mixed,919.0,-1429.0,4035.0,-510.0
+CANBK,2023-03,-,-,+,Growth Funded by Debt,-39978.0,-1156.0,445.0,-41134.0
+CANBK,2024-03,+,-,-,Reinvestor,15046.0,-1750.0,-3834.0,13296.0
+CHOLAFIN,2013-03,-,+,+,Distress Signal,-3754.0,5.0,4067.0,-3749.0
+CHOLAFIN,2014-03,-,-,+,Growth Funded by Debt,-2447.0,-83.0,2749.0,-2530.0
+CHOLAFIN,2015-03,-,-,+,Growth Funded by Debt,-2264.0,-40.0,1819.0,-2304.0
+CHOLAFIN,2016-03,-,-,+,Growth Funded by Debt,-2809.0,-137.0,3031.0,-2946.0
+CHOLAFIN,2017-03,-,-,+,Growth Funded by Debt,-1468.0,-222.0,1692.0,-1690.0
+CHOLAFIN,2018-03,-,-,+,Growth Funded by Debt,-7926.0,-60.0,8009.0,-7986.0
+CHOLAFIN,2019-03,-,-,+,Growth Funded by Debt,-9317.0,-11.0,12191.0,-9328.0
+CHOLAFIN,2020-03,-,-,+,Growth Funded by Debt,-2075.0,-54.0,2452.0,-2129.0
+CHOLAFIN,2021-03,-,-,+,Growth Funded by Debt,-8848.0,-1746.0,8707.0,-10594.0
+CHOLAFIN,2022-03,-,+,+,Distress Signal,-5571.0,1640.0,5150.0,-3931.0
+CHOLAFIN,2023-03,-,-,+,Growth Funded by Debt,-27105.0,-2148.0,27466.0,-29253.0
+CHOLAFIN,2024-03,-,-,+,Growth Funded by Debt,-35683.0,-2855.0,38471.0,-38538.0
+CIPLA,2013-03,+,-,+,Growth / Mixed,1398.0,-2063.0,718.0,-665.0
+CIPLA,2014-03,+,-,-,Shareholder Returns,1563.0,-1265.0,-266.0,298.0
+CIPLA,2015-03,+,-,+,Growth / Mixed,1173.0,-950.0,165.0,223.0
+CIPLA,2016-03,+,-,+,Growth / Mixed,1741.0,-4533.0,3104.0,-2792.0
+CIPLA,2017-03,+,-,-,Shareholder Returns,2382.0,-1304.0,-1326.0,1078.0
+CIPLA,2018-03,+,-,-,Shareholder Returns,1463.0,-834.0,-385.0,629.0
+CIPLA,2019-03,+,-,-,Shareholder Returns,1691.0,-1688.0,-349.0,3.0
+CIPLA,2020-03,+,+,-,Liquidating Assets,3068.0,114.0,-2949.0,3182.0
+CIPLA,2021-03,+,-,-,Shareholder Returns,3755.0,-2374.0,-1240.0,1381.0
+CIPLA,2022-03,+,-,-,Shareholder Returns,3326.0,-1858.0,-1600.0,1468.0
+CIPLA,2023-03,+,-,-,Shareholder Returns,3238.0,-2376.0,-958.0,862.0
+CIPLA,2024-03,+,-,-,Reinvestor,4134.0,-2982.0,-1200.0,1152.0
+COALINDIA,2013-03,+,-,-,Reinvestor,9109.0,-1833.0,-7852.0,7276.0
+COALINDIA,2014-03,+,+,-,Liquidating Assets,14525.0,8580.0,-25350.0,23105.0
+COALINDIA,2015-03,+,+,-,Liquidating Assets,14382.0,894.0,-15026.0,15276.0
+COALINDIA,2016-03,+,+,-,Liquidating Assets,13154.0,8154.0,-19587.0,21308.0
+COALINDIA,2017-03,+,+,-,Liquidating Assets,16461.0,455.0,-17598.0,16916.0
+COALINDIA,2018-03,+,-,-,Shareholder Returns,21115.0,-7747.0,-13564.0,13368.0
+COALINDIA,2019-03,+,-,-,Reinvestor,16356.0,-7896.0,-10885.0,8460.0
+COALINDIA,2020-03,+,+,-,Liquidating Assets,4977.0,1033.0,-4791.0,6010.0
+COALINDIA,2021-03,+,+,-,Liquidating Assets,10592.0,182.0,-8453.0,10774.0
+COALINDIA,2022-03,+,-,-,Shareholder Returns,41107.0,-25715.0,-13441.0,15392.0
+COALINDIA,2023-03,+,-,-,Shareholder Returns,35734.0,-23465.0,-13704.0,12269.0
+COALINDIA,2024-03,+,-,-,Reinvestor,18103.0,-4486.0,-13899.0,13617.0
+DABUR,2013-03,+,-,-,Shareholder Returns,870.0,-622.0,-234.0,248.0
+DABUR,2014-03,+,-,-,Shareholder Returns,1098.0,-104.0,-804.0,994.0
+DABUR,2015-03,+,-,-,Reinvestor,1047.0,-876.0,-417.0,171.0
+DABUR,2016-03,+,-,-,Reinvestor,1187.0,-730.0,-374.0,457.0
+DABUR,2017-03,+,-,-,Reinvestor,1227.0,-807.0,-339.0,420.0
+DABUR,2018-03,+,-,-,Reinvestor,1092.0,-541.0,-577.0,551.0
+DABUR,2019-03,+,+,-,Liquidating Assets,1499.0,338.0,-1888.0,1837.0
+DABUR,2020-03,+,-,-,Shareholder Returns,1614.0,-517.0,-1043.0,1097.0
+DABUR,2021-03,+,-,-,Shareholder Returns,2115.0,-1404.0,-613.0,711.0
+DABUR,2022-03,+,-,-,Shareholder Returns,1802.0,-1273.0,-490.0,529.0
+DABUR,2023-03,+,-,-,Reinvestor,1488.0,-583.0,-1035.0,905.0
+DABUR,2024-03,+,-,-,Shareholder Returns,2013.0,-971.0,-1161.0,1042.0
+DIVISLAB,2013-03,+,-,-,Reinvestor,480.0,-255.0,-231.0,225.0
+DIVISLAB,2014-03,+,-,-,Reinvestor,557.0,-305.0,-248.0,252.0
+DIVISLAB,2015-03,+,-,-,Reinvestor,826.0,-521.0,-303.0,305.0
+DIVISLAB,2016-03,+,-,-,Reinvestor,1038.0,-406.0,-631.0,632.0
+DIVISLAB,2017-03,+,-,+,Growth / Mixed,1150.0,-1140.0,2.0,10.0
+DIVISLAB,2018-03,+,-,-,Reinvestor,776.0,-478.0,-314.0,298.0
+DIVISLAB,2019-03,+,-,-,Reinvestor,954.0,-685.0,-246.0,269.0
+DIVISLAB,2020-03,+,-,-,Reinvestor,1216.0,-83.0,-1091.0,1133.0
+DIVISLAB,2021-03,+,+,-,Liquidating Assets,1947.0,75.0,-35.0,2022.0
+DIVISLAB,2022-03,+,-,-,Reinvestor,1912.0,-2195.0,-532.0,-283.0
+DIVISLAB,2023-03,+,-,-,Shareholder Returns,2459.0,-2707.0,-797.0,-248.0
+DIVISLAB,2024-03,+,-,-,Reinvestor,1261.0,-269.0,-799.0,992.0
+DLF,2013-03,+,+,-,Liquidating Assets,2009.0,1995.0,-3951.0,4004.0
+DLF,2014-03,+,+,-,Liquidating Assets,1468.0,3924.0,-4532.0,5392.0
+DLF,2015-03,+,+,-,Liquidating Assets,2037.0,98.0,-1547.0,2135.0
+DLF,2016-03,+,-,-,Shareholder Returns,2957.0,-818.0,-1929.0,2139.0
+DLF,2017-03,-,+,+,Distress Signal,-898.0,872.0,787.0,-26.0
+DLF,2018-03,+,-,-,Reinvestor,270.0,-2102.0,-232.0,-1832.0
+DLF,2019-03,+,+,+,Cash Accumulator,2043.0,3.0,875.0,2046.0
+DLF,2020-03,+,+,-,Liquidating Assets,356.0,6508.0,-9522.0,6864.0
+DLF,2021-03,+,+,-,Liquidating Assets,1460.0,150.0,-2184.0,1610.0
+DLF,2022-03,+,+,-,Liquidating Assets,2832.0,267.0,-3828.0,3099.0
+DLF,2023-03,+,-,-,Shareholder Returns,2375.0,-461.0,-2013.0,1914.0
+DLF,2024-03,+,-,+,Growth / Mixed,2539.0,-1529.0,177.0,1010.0
+DMART,2013-03,+,-,+,Growth / Mixed,127.0,-231.0,118.0,-104.0
+DMART,2014-03,+,-,+,Growth / Mixed,198.0,-270.0,65.0,-72.0
+DMART,2015-03,+,-,+,Growth / Mixed,222.0,-474.0,234.0,-252.0
+DMART,2016-03,+,-,+,Growth / Mixed,433.0,-633.0,196.0,-200.0
+DMART,2017-03,+,-,+,Growth / Mixed,455.0,-2482.0,2025.0,-2027.0
+DMART,2018-03,+,+,-,Liquidating Assets,730.0,464.0,-1159.0,1194.0
+DMART,2019-03,+,-,+,Growth / Mixed,807.0,-958.0,209.0,-151.0
+DMART,2020-03,+,-,+,Growth / Mixed,1280.0,-4657.0,3357.0,-3377.0
+DMART,2021-03,+,-,-,Shareholder Returns,1375.0,-1110.0,-180.0,265.0
+DMART,2022-03,+,-,-,Reinvestor,1372.0,-1289.0,-179.0,83.0
+DMART,2023-03,+,-,-,Shareholder Returns,2630.0,-2313.0,-205.0,317.0
+DMART,2024-03,+,-,-,Shareholder Returns,2746.0,-2468.0,-148.0,278.0
+DRREDDY,2013-03,+,-,-,Reinvestor,1378.0,-1437.0,-157.0,-59.0
+DRREDDY,2014-03,+,-,-,Shareholder Returns,1970.0,-1604.0,-24.0,366.0
+DRREDDY,2015-03,+,-,-,Shareholder Returns,2524.0,-2370.0,-433.0,154.0
+DRREDDY,2016-03,+,-,-,Shareholder Returns,3263.0,-1610.0,-1700.0,1653.0
+DRREDDY,2017-03,+,-,-,Shareholder Returns,2144.0,-1890.0,-369.0,254.0
+DRREDDY,2018-03,+,-,-,Shareholder Returns,1803.0,-1483.0,-444.0,320.0
+DRREDDY,2019-03,+,-,-,Shareholder Returns,2870.0,-769.0,-2133.0,2101.0
+DRREDDY,2020-03,+,-,-,Shareholder Returns,2984.0,-495.0,-2516.0,2489.0
+DRREDDY,2021-03,+,-,-,Shareholder Returns,3570.0,-2255.0,-30.0,1315.0
+DRREDDY,2022-03,+,-,-,Shareholder Returns,2811.0,-2565.0,-242.0,246.0
+DRREDDY,2023-03,+,-,-,Shareholder Returns,5888.0,-4109.0,-2686.0,1779.0
+DRREDDY,2024-03,+,-,-,Reinvestor,4543.0,-4034.0,-376.0,509.0
+EICHERMOT,2012-12,+,-,-,Shareholder Returns,496.0,-773.0,-111.0,-277.0
+EICHERMOT,2013-12,+,-,-,Shareholder Returns,716.0,-790.0,-47.0,-74.0
+EICHERMOT,2014-12,+,-,-,Shareholder Returns,1047.0,-1214.0,-162.0,-167.0
+EICHERMOT,2016-03,+,-,-,Shareholder Returns,1463.0,-1001.0,-466.0,462.0
+EICHERMOT,2017-03,+,-,+,Growth / Mixed,1708.0,-1744.0,25.0,-36.0
+EICHERMOT,2018-03,+,-,-,Shareholder Returns,2482.0,-2145.0,-262.0,337.0
+EICHERMOT,2019-03,+,-,-,Reinvestor,1575.0,-660.0,-292.0,915.0
+EICHERMOT,2020-03,+,-,-,Reinvestor,1694.0,-1508.0,-858.0,186.0
+EICHERMOT,2021-03,+,-,-,Shareholder Returns,1691.0,-1625.0,-15.0,66.0
+EICHERMOT,2022-03,+,-,-,Reinvestor,1527.0,-983.0,-593.0,544.0
+EICHERMOT,2023-03,+,-,-,Reinvestor,2823.0,-2397.0,-417.0,426.0
+EICHERMOT,2024-03,+,-,-,Reinvestor,3724.0,-2834.0,-844.0,890.0
+GAIL,2013-03,+,-,+,Growth / Mixed,6603.0,-8626.0,3642.0,-2023.0
+GAIL,2014-03,+,-,-,Reinvestor,4615.0,-4466.0,-3.0,149.0
+GAIL,2015-03,+,-,-,Shareholder Returns,4214.0,-2809.0,-3058.0,1405.0
+GAIL,2016-03,+,-,-,Shareholder Returns,3960.0,-904.0,-3028.0,3056.0
+GAIL,2017-03,+,-,-,Shareholder Returns,6024.0,-334.0,-5275.0,5690.0
+GAIL,2018-03,+,-,-,Shareholder Returns,8769.0,-2660.0,-5252.0,6109.0
+GAIL,2019-03,+,-,-,Shareholder Returns,7984.0,-5701.0,-3364.0,2283.0
+GAIL,2020-03,+,-,+,Growth / Mixed,8345.0,-8299.0,281.0,46.0
+GAIL,2021-03,+,-,-,Shareholder Returns,8993.0,-4640.0,-3471.0,4353.0
+GAIL,2022-03,+,-,-,Reinvestor,9420.0,-5490.0,-3917.0,3930.0
+GAIL,2023-03,+,-,+,Growth / Mixed,3205.0,-7453.0,2972.0,-4248.0
+GAIL,2024-03,+,-,-,Shareholder Returns,12586.0,-8226.0,-3457.0,4360.0
+GODREJCP,2013-03,+,-,+,Growth / Mixed,820.0,-865.0,282.0,-45.0
+GODREJCP,2014-03,+,-,-,Shareholder Returns,1116.0,-494.0,-620.0,622.0
+GODREJCP,2015-03,+,-,-,Shareholder Returns,1027.0,-1236.0,-12.0,-209.0
+GODREJCP,2016-03,+,-,-,Shareholder Returns,847.0,-622.0,-202.0,225.0
+GODREJCP,2017-03,+,-,+,Growth / Mixed,1860.0,-2243.0,665.0,-383.0
+GODREJCP,2018-03,+,-,-,Shareholder Returns,1723.0,-336.0,-1384.0,1387.0
+GODREJCP,2019-03,+,+,-,Liquidating Assets,1729.0,274.0,-2039.0,2003.0
+GODREJCP,2020-03,+,-,-,Shareholder Returns,1588.0,-552.0,-1295.0,1036.0
+GODREJCP,2021-03,+,-,-,Shareholder Returns,2030.0,-292.0,-1816.0,1738.0
+GODREJCP,2022-03,+,-,-,Reinvestor,1451.0,-844.0,-380.0,607.0
+GODREJCP,2023-03,+,-,-,Shareholder Returns,2151.0,-1754.0,-794.0,397.0
+GODREJCP,2024-03,+,-,+,Growth / Mixed,2070.0,-3435.0,1406.0,-1365.0
+GRASIM,2013-03,+,-,+,Growth / Mixed,4242.0,-5687.0,1348.0,-1445.0
+GRASIM,2014-03,+,-,-,Shareholder Returns,3549.0,-2336.0,-1046.0,1213.0
+GRASIM,2015-03,+,-,-,Shareholder Returns,4594.0,-2359.0,-2278.0,2235.0
+GRASIM,2016-03,+,-,-,Shareholder Returns,5868.0,-4515.0,-1365.0,1353.0
+GRASIM,2017-03,+,-,-,Shareholder Returns,7288.0,-3509.0,-3799.0,3779.0
+GRASIM,2018-03,-,+,+,Distress Signal,-4140.0,1546.0,3449.0,-2594.0
+GRASIM,2019-03,-,-,+,Growth Funded by Debt,-1659.0,-2212.0,4158.0,-3871.0
+GRASIM,2020-03,+,-,-,Shareholder Returns,16620.0,-11364.0,-3418.0,5256.0
+GRASIM,2021-03,+,-,-,Shareholder Returns,15075.0,-7146.0,-8003.0,7929.0
+GRASIM,2022-03,+,-,-,Reinvestor,7038.0,-1053.0,-6733.0,5985.0
+GRASIM,2023-03,-,-,+,Growth Funded by Debt,-12685.0,-13712.0,26469.0,-26397.0
+GRASIM,2024-03,-,-,+,Growth Funded by Debt,-10719.0,-23114.0,33908.0,-33833.0
+HAL,2017-03,-,+,-,Restructuring,-423.0,3021.0,-164.0,2598.0
+HAL,2018-03,-,+,-,Restructuring,-734.0,594.0,-2540.0,-140.0
+HAL,2019-03,-,+,+,Distress Signal,-7694.0,5292.0,2321.0,-2402.0
+HAL,2020-03,+,-,+,Growth / Mixed,1537.0,-1334.0,64.0,203.0
+HAL,2021-03,+,-,-,Shareholder Returns,15124.0,-1190.0,-7070.0,13934.0
+HAL,2022-03,+,-,-,Shareholder Returns,10180.0,-12789.0,-1464.0,-2609.0
+HAL,2023-03,+,-,-,Shareholder Returns,8836.0,-5734.0,-1731.0,3102.0
+HAL,2024-03,+,-,-,Shareholder Returns,8226.0,-6412.0,-1999.0,1814.0
+HAVELLS,2013-03,+,-,-,Shareholder Returns,638.0,-144.0,-252.0,494.0
+HAVELLS,2014-03,+,-,-,Shareholder Returns,868.0,-376.0,-310.0,492.0
+HAVELLS,2015-03,+,-,-,Shareholder Returns,963.0,-485.0,-754.0,478.0
+HAVELLS,2016-03,+,-,-,Reinvestor,513.0,-121.0,-621.0,392.0
+HAVELLS,2017-03,+,-,-,Shareholder Returns,767.0,-220.0,-98.0,547.0
+HAVELLS,2018-03,+,-,-,Shareholder Returns,1100.0,-946.0,-409.0,154.0
+HAVELLS,2019-03,+,+,-,Liquidating Assets,501.0,185.0,-318.0,686.0
+HAVELLS,2020-03,+,-,-,Shareholder Returns,827.0,-548.0,-716.0,279.0
+HAVELLS,2021-03,+,-,+,Growth / Mixed,660.0,-763.0,190.0,-103.0
+HAVELLS,2022-03,+,-,-,Shareholder Returns,1728.0,-759.0,-547.0,969.0
+HAVELLS,2023-03,+,+,-,Liquidating Assets,565.0,31.0,-907.0,596.0
+HAVELLS,2024-03,+,-,-,Shareholder Returns,1953.0,-1618.0,-534.0,335.0
+HCLTECH,2013-06,+,-,-,Shareholder Returns,4492.0,-2361.0,-2086.0,2131.0
+HCLTECH,2014-06,+,-,-,Reinvestor,6457.0,-4842.0,-1308.0,1615.0
+HCLTECH,2015-06,+,-,-,Reinvestor,5539.0,-2088.0,-3140.0,3451.0
+HCLTECH,2016-03,+,-,-,Reinvestor,3823.0,-2208.0,-2237.0,1615.0
+HCLTECH,2017-03,+,-,-,Shareholder Returns,8995.0,-3890.0,-4517.0,5105.0
+HCLTECH,2018-03,+,-,-,Reinvestor,8328.0,-2236.0,-5714.0,6092.0
+HCLTECH,2019-03,+,-,-,Reinvestor,8971.0,-3256.0,-1471.0,5715.0
+HCLTECH,2020-03,+,-,-,Shareholder Returns,13359.0,-12332.0,-3168.0,1027.0
+HCLTECH,2021-03,+,-,-,Shareholder Returns,19618.0,-5665.0,-11192.0,13953.0
+HCLTECH,2022-03,+,+,-,Liquidating Assets,16900.0,1597.0,-14508.0,18497.0
+HCLTECH,2023-03,+,-,-,Shareholder Returns,18009.0,-3573.0,-15881.0,14436.0
+HCLTECH,2024-03,+,-,-,Shareholder Returns,22448.0,-6608.0,-15464.0,15840.0
+HDFCBANK,2013-03,-,-,+,Growth Funded by Debt,-5847.0,-902.0,13105.0,-6749.0
+HDFCBANK,2014-03,+,-,+,Growth / Mixed,4211.0,-1099.0,9270.0,3112.0
+HDFCBANK,2015-03,-,-,+,Growth Funded by Debt,-21281.0,-800.0,18694.0,-22081.0
+HDFCBANK,2016-03,-,-,+,Growth Funded by Debt,-34435.0,-837.0,37815.0,-35272.0
+HDFCBANK,2017-03,+,-,-,Shareholder Returns,17282.0,-1146.0,-5893.0,16136.0
+HDFCBANK,2018-03,+,-,+,Growth / Mixed,17214.0,-842.0,57378.0,16372.0
+HDFCBANK,2019-03,-,-,+,Growth Funded by Debt,-62872.0,-1503.0,23131.0,-64375.0
+HDFCBANK,2020-03,-,-,+,Growth Funded by Debt,-16869.0,-1403.0,24394.0,-18272.0
+HDFCBANK,2021-03,+,-,-,Shareholder Returns,42476.0,-1823.0,-7321.0,40653.0
+HDFCBANK,2022-03,-,-,+,Growth Funded by Debt,-11960.0,-2051.0,48124.0,-14011.0
+HDFCBANK,2023-03,+,-,+,Growth / Mixed,20814.0,-2992.0,23941.0,17822.0
+HDFCBANK,2024-03,+,+,-,Liquidating Assets,19069.0,16600.0,-3983.0,35669.0
+HDFCLIFE,2013-03,-,-,-,Pre-Revenue / Cash Burn,,,,
+HDFCLIFE,2014-03,-,-,-,Pre-Revenue / Cash Burn,,,,
+HDFCLIFE,2015-03,+,-,-,Shareholder Returns,4459.0,-3514.0,-168.0,945.0
+HDFCLIFE,2016-03,+,-,-,Shareholder Returns,5687.0,-3962.0,-212.0,1725.0
+HDFCLIFE,2017-03,+,-,-,Shareholder Returns,6230.0,-5177.0,-236.0,1053.0
+HDFCLIFE,2018-03,+,-,-,Shareholder Returns,6739.0,-4421.0,-196.0,2318.0
+HDFCLIFE,2019-03,+,-,-,Shareholder Returns,9868.0,-10182.0,-337.0,-314.0
+HDFCLIFE,2020-03,+,-,+,Growth / Mixed,7388.0,-7789.0,38.0,-401.0
+HDFCLIFE,2021-03,+,-,+,Growth / Mixed,9703.0,-8952.0,678.0,751.0
+HDFCLIFE,2022-03,+,-,-,Shareholder Returns,5943.0,-801.0,-238.0,5142.0
+HDFCLIFE,2023-03,+,-,+,Growth / Mixed,6883.0,-10071.0,1985.0,-3188.0
+HDFCLIFE,2024-03,+,-,-,Shareholder Returns,10721.0,-13614.0,-403.0,-2893.0
+HEROMOTOCO,2014-03,+,-,-,Shareholder Returns,2963.0,-1616.0,-1414.0,1347.0
+HEROMOTOCO,2015-03,+,+,-,Liquidating Assets,2186.0,31.0,-2131.0,2217.0
+HEROMOTOCO,2016-03,+,-,-,Shareholder Returns,3722.0,-2300.0,-1475.0,1422.0
+HEROMOTOCO,2017-03,+,-,-,Shareholder Returns,4007.0,-1972.0,-2036.0,2035.0
+HEROMOTOCO,2018-03,+,-,-,Shareholder Returns,4017.0,-1858.0,-2102.0,2159.0
+HEROMOTOCO,2019-03,+,+,-,Liquidating Assets,1032.0,1298.0,-2252.0,2330.0
+HEROMOTOCO,2020-03,+,-,-,Shareholder Returns,5518.0,-2819.0,-2602.0,2699.0
+HEROMOTOCO,2021-03,+,-,-,Shareholder Returns,4110.0,-2289.0,-1852.0,1821.0
+HEROMOTOCO,2022-03,+,-,-,Reinvestor,2104.0,-222.0,-1975.0,1882.0
+HEROMOTOCO,2023-03,+,-,-,Reinvestor,2614.0,-421.0,-2147.0,2193.0
+HEROMOTOCO,2024-03,+,-,-,Shareholder Returns,4923.0,-1828.0,-2717.0,3095.0
+HINDALCO,2013-03,+,-,+,Growth / Mixed,2977.0,-13801.0,10278.0,-10824.0
+HINDALCO,2014-03,+,-,+,Growth / Mixed,7956.0,-8095.0,1493.0,-139.0
+HINDALCO,2015-03,+,-,-,Shareholder Returns,7143.0,-3873.0,-2437.0,3270.0
+HINDALCO,2016-03,+,-,-,Reinvestor,11688.0,-3220.0,-8862.0,8468.0
+HINDALCO,2017-03,+,-,-,Shareholder Returns,12687.0,-2876.0,-5552.0,9811.0
+HINDALCO,2018-03,+,+,-,Liquidating Assets,10898.0,5333.0,-16412.0,16231.0
+HINDALCO,2019-03,+,-,-,Shareholder Returns,11977.0,-5456.0,-5466.0,6521.0
+HINDALCO,2020-03,+,-,+,Growth / Mixed,12745.0,-7227.0,6656.0,5518.0
+HINDALCO,2021-03,+,-,-,Shareholder Returns,17232.0,-25280.0,-4882.0,-8048.0
+HINDALCO,2022-03,+,-,-,Shareholder Returns,16838.0,-6773.0,-6765.0,10065.0
+HINDALCO,2023-03,+,-,-,Shareholder Returns,19208.0,-7559.0,-10450.0,11649.0
+HINDALCO,2024-03,+,-,-,Shareholder Returns,24056.0,-14267.0,-10817.0,9789.0
+HINDUNILVR,2013-03,+,+,-,Liquidating Assets,3605.0,63.0,-4147.0,3668.0
+HINDUNILVR,2014-03,+,-,-,Reinvestor,3818.0,-475.0,-2960.0,3343.0
+HINDUNILVR,2015-03,+,+,-,Liquidating Assets,3292.0,138.0,-3462.0,3430.0
+HINDUNILVR,2016-03,+,-,-,Shareholder Returns,4171.0,-282.0,-3864.0,3889.0
+HINDUNILVR,2017-03,+,-,-,Shareholder Returns,5185.0,-1173.0,-4214.0,4012.0
+HINDUNILVR,2018-03,+,-,-,Shareholder Returns,6059.0,-1063.0,-4975.0,4996.0
+HINDUNILVR,2019-03,+,-,-,Reinvestor,5800.0,-438.0,-5390.0,5362.0
+HINDUNILVR,2020-03,+,+,-,Liquidating Assets,7623.0,1791.0,-6819.0,9414.0
+HINDUNILVR,2021-03,+,-,-,Shareholder Returns,9163.0,-1228.0,-9309.0,7935.0
+HINDUNILVR,2022-03,+,-,-,Shareholder Returns,9048.0,-1728.0,-8015.0,7320.0
+HINDUNILVR,2023-03,+,-,-,Reinvestor,9991.0,-1484.0,-8953.0,8507.0
+HINDUNILVR,2024-03,+,-,-,Shareholder Returns,15469.0,-5324.0,-10034.0,10145.0
+ICICIBANK,2013-03,+,-,+,Growth / Mixed,17494.0,-18563.0,9283.0,-1069.0
+ICICIBANK,2014-03,+,-,+,Growth / Mixed,6765.0,-15750.0,7872.0,-8985.0
+ICICIBANK,2015-03,-,-,+,Growth Funded by Debt,-12273.0,-13175.0,24827.0,-25448.0
+ICICIBANK,2016-03,+,-,+,Growth / Mixed,23645.0,-12060.0,5814.0,11585.0
+ICICIBANK,2017-03,+,-,-,Shareholder Returns,52636.0,-1711.0,-35470.0,50925.0
+ICICIBANK,2018-03,+,-,+,Growth / Mixed,19383.0,-50551.0,39676.0,-31168.0
+ICICIBANK,2019-03,+,-,-,Shareholder Returns,48671.0,-30282.0,-19997.0,18389.0
+ICICIBANK,2020-03,+,-,+,Growth / Mixed,79565.0,-42095.0,2992.0,37470.0
+ICICIBANK,2021-03,+,-,-,Shareholder Returns,138015.0,-63631.0,-54667.0,74384.0
+ICICIBANK,2022-03,+,-,+,Growth / Mixed,58111.0,-39448.0,17451.0,18663.0
+ICICIBANK,2023-03,-,-,+,Growth Funded by Debt,-3771.0,-67689.0,24791.0,-71460.0
+ICICIBANK,2024-03,+,-,+,Growth / Mixed,157284.0,-144737.0,13765.0,12547.0
+ICICIGI,2013-03,+,-,+,Growth / Mixed,984.0,-962.0,102.0,22.0
+ICICIGI,2014-03,+,-,+,Growth / Mixed,595.0,-706.0,4.0,-111.0
+ICICIGI,2015-03,-,+,-,Restructuring,-98.0,171.0,-93.0,73.0
+ICICIGI,2016-03,+,-,-,Shareholder Returns,511.0,-310.0,-148.0,201.0
+ICICIGI,2017-03,+,-,+,Growth / Mixed,1628.0,-1990.0,361.0,-362.0
+ICICIGI,2018-03,+,-,-,Shareholder Returns,2390.0,-1896.0,-96.0,494.0
+ICICIGI,2019-03,+,-,-,Shareholder Returns,2976.0,-2856.0,-310.0,120.0
+ICICIGI,2020-03,+,-,-,Shareholder Returns,3433.0,-3382.0,-420.0,51.0
+ICICIGI,2021-03,+,-,-,Shareholder Returns,1774.0,-1367.0,-212.0,407.0
+ICICIGI,2022-03,+,+,-,Liquidating Assets,809.0,135.0,-879.0,944.0
+ICICIGI,2023-03,+,-,-,Shareholder Returns,2290.0,-1685.0,-695.0,605.0
+ICICIGI,2024-03,+,-,-,Shareholder Returns,2407.0,-1921.0,-355.0,486.0
+ICICIPRULI,2013-03,-,+,-,Restructuring,-2641.0,1564.0,-514.0,-1077.0
+ICICIPRULI,2014-03,-,+,-,Restructuring,-2382.0,6012.0,-1091.0,3630.0
+ICICIPRULI,2015-03,+,-,-,Reinvestor,523.0,-1822.0,-966.0,-1299.0
+ICICIPRULI,2016-03,+,+,-,Liquidating Assets,3634.0,27.0,-1442.0,3661.0
+ICICIPRULI,2017-03,+,-,-,Shareholder Returns,4130.0,-696.0,-994.0,3434.0
+ICICIPRULI,2018-03,+,-,-,Shareholder Returns,5690.0,-5389.0,-1188.0,301.0
+ICICIPRULI,2019-03,+,-,-,Shareholder Returns,11377.0,-7559.0,-843.0,3818.0
+ICICIPRULI,2020-03,+,-,-,Shareholder Returns,8596.0,-10797.0,-405.0,-2201.0
+ICICIPRULI,2021-03,+,-,+,Growth / Mixed,7314.0,-5084.0,1205.0,2230.0
+ICICIPRULI,2022-03,+,-,-,Shareholder Returns,1831.0,-816.0,-319.0,1015.0
+ICICIPRULI,2023-03,+,-,-,Reinvestor,89.0,-1145.0,-112.0,-1056.0
+ICICIPRULI,2024-03,-,+,-,Restructuring,-7315.0,7420.0,-88.0,105.0
+INDIGO,2013-03,+,-,+,Growth / Mixed,1741.0,-1890.0,36.0,-149.0
+INDIGO,2014-03,+,-,+,Growth / Mixed,1595.0,-2914.0,1285.0,-1319.0
+INDIGO,2015-03,+,-,-,Shareholder Returns,2384.0,-940.0,-1308.0,1444.0
+INDIGO,2016-03,+,-,-,Shareholder Returns,3116.0,-1337.0,-1220.0,1779.0
+INDIGO,2017-03,+,-,-,Shareholder Returns,3782.0,-3033.0,-1401.0,749.0
+INDIGO,2018-03,+,-,+,Growth / Mixed,3903.0,-4152.0,766.0,-249.0
+INDIGO,2019-03,+,-,-,Shareholder Returns,3160.0,-2526.0,-592.0,634.0
+INDIGO,2020-03,+,-,-,Reinvestor,6943.0,-4573.0,-2407.0,2370.0
+INDIGO,2021-03,-,+,-,Restructuring,-1620.0,3228.0,-1775.0,1608.0
+INDIGO,2022-03,+,+,-,Liquidating Assets,2064.0,1527.0,-3088.0,3591.0
+INDIGO,2023-03,+,-,-,Reinvestor,12703.0,-4039.0,-8432.0,8664.0
+INDIGO,2024-03,+,-,-,Shareholder Returns,21183.0,-11759.0,-9979.0,9424.0
+INDUSINDBK,2013-03,-,-,+,Growth Funded by Debt,-486.0,-174.0,1969.0,-660.0
+INDUSINDBK,2014-03,-,-,+,Growth Funded by Debt,-4106.0,-174.0,4200.0,-4280.0
+INDUSINDBK,2015-03,-,-,+,Growth Funded by Debt,-1421.0,-276.0,5707.0,-1697.0
+INDUSINDBK,2016-03,-,-,+,Growth Funded by Debt,-2927.0,-258.0,2517.0,-3185.0
+INDUSINDBK,2017-03,+,-,-,Shareholder Returns,11569.0,-285.0,-2768.0,11284.0
+INDUSINDBK,2018-03,-,-,+,Growth Funded by Debt,-20700.0,-217.0,15505.0,-20917.0
+INDUSINDBK,2019-03,-,-,+,Growth Funded by Debt,-6389.0,-633.0,8590.0,-7022.0
+INDUSINDBK,2020-03,-,+,+,Distress Signal,-12039.0,526.0,12733.0,-11513.0
+INDUSINDBK,2021-03,+,-,-,Shareholder Returns,44646.0,-226.0,-4096.0,44420.0
+INDUSINDBK,2022-03,+,-,-,Shareholder Returns,16600.0,-351.0,-4302.0,16249.0
+INDUSINDBK,2023-03,-,-,+,Growth Funded by Debt,-12438.0,-441.0,1115.0,-12879.0
+INDUSINDBK,2024-03,-,-,-,Pre-Revenue / Cash Burn,-16843.0,-625.0,-2242.0,-17468.0
+INFY,2013-03,+,-,-,Reinvestor,7373.0,-2922.0,-3210.0,4451.0
+INFY,2014-03,+,-,-,Reinvestor,9825.0,-2563.0,-3144.0,7262.0
+INFY,2015-03,+,+,-,Liquidating Assets,8353.0,999.0,-4935.0,9352.0
+INFY,2016-03,+,-,-,Reinvestor,10028.0,-885.0,-6813.0,9143.0
+INFY,2017-03,+,-,-,Reinvestor,11531.0,-14664.0,-6939.0,-3133.0
+INFY,2018-03,+,+,-,Liquidating Assets,13218.0,4533.0,-20505.0,17751.0
+INFY,2019-03,+,-,-,Reinvestor,14841.0,-632.0,-14512.0,14209.0
+INFY,2020-03,+,-,-,Shareholder Returns,17003.0,-331.0,-17591.0,16672.0
+INFY,2021-03,+,-,-,Shareholder Returns,23224.0,-7373.0,-9786.0,15851.0
+INFY,2022-03,+,-,-,Shareholder Returns,23885.0,-6485.0,-24642.0,17400.0
+INFY,2023-03,+,-,-,Reinvestor,22467.0,-1071.0,-26695.0,21396.0
+INFY,2024-03,+,-,-,Reinvestor,25210.0,-5093.0,-17504.0,20117.0
+IOC,2013-03,+,-,+,Growth / Mixed,9340.0,-9294.0,352.0,46.0
+IOC,2014-03,+,-,-,Shareholder Returns,24195.0,-18594.0,-3116.0,5601.0
+IOC,2015-03,+,-,-,Shareholder Returns,46092.0,-10215.0,-38283.0,35877.0
+IOC,2016-03,+,-,-,Shareholder Returns,25624.0,-13610.0,-11890.0,12014.0
+IOC,2017-03,+,-,-,Shareholder Returns,28216.0,-17684.0,-10937.0,10532.0
+IOC,2018-03,+,-,-,Shareholder Returns,29115.0,-17119.0,-12007.0,11996.0
+IOC,2019-03,+,-,+,Growth / Mixed,12747.0,-22569.0,10436.0,-9822.0
+IOC,2020-03,+,-,+,Growth / Mixed,7146.0,-29101.0,22456.0,-21955.0
+IOC,2021-03,+,-,-,Shareholder Returns,49650.0,-22935.0,-27369.0,26715.0
+IOC,2022-03,+,-,-,Shareholder Returns,25747.0,-21294.0,-4058.0,4453.0
+IOC,2023-03,+,-,-,Shareholder Returns,29644.0,-28030.0,-1794.0,1614.0
+IOC,2024-03,+,-,-,Shareholder Returns,71099.0,-31464.0,-39385.0,39635.0
+IRCTC,2015-03,+,-,-,Reinvestor,69.0,-46.0,-17.0,23.0
+IRCTC,2016-03,+,+,-,Liquidating Assets,288.0,7.0,-31.0,295.0
+IRCTC,2017-03,+,+,-,Liquidating Assets,338.0,94.0,-136.0,432.0
+IRCTC,2018-03,+,+,-,Liquidating Assets,24.0,40.0,-57.0,64.0
+IRCTC,2019-03,+,-,-,Shareholder Returns,499.0,-353.0,-179.0,146.0
+IRCTC,2020-03,+,+,-,Liquidating Assets,409.0,8.0,-280.0,417.0
+IRCTC,2021-03,+,-,-,Shareholder Returns,248.0,-453.0,-47.0,-205.0
+IRCTC,2022-03,+,-,-,Reinvestor,524.0,-242.0,-258.0,282.0
+IRCTC,2023-03,+,-,-,Reinvestor,812.0,-317.0,-434.0,495.0
+IRCTC,2024-03,+,-,-,Reinvestor,882.0,-215.0,-404.0,667.0
+IRFC,2016-03,-,+,+,Distress Signal,-16378.0,2.0,17582.0,-16376.0
+IRFC,2017-03,-,+,+,Distress Signal,-19455.0,2.0,18250.0,-19453.0
+IRFC,2018-03,-,+,+,Distress Signal,-28076.0,2.0,28075.0,-28074.0
+IRFC,2019-03,-,+,+,Distress Signal,-41748.0,1.0,41749.0,-41747.0
+IRFC,2020-03,-,+,+,Distress Signal,-62701.0,1.0,62697.0,-62700.0
+IRFC,2021-03,-,+,+,Distress Signal,-89907.0,0.0,90202.0,-89907.0
+IRFC,2022-03,-,-,+,Growth Funded by Debt,-64412.0,-5.0,64266.0,-64417.0
+IRFC,2023-03,-,+,+,Distress Signal,-28588.0,0.0,28644.0,-28588.0
+IRFC,2024-03,+,-,-,Shareholder Returns,7914.0,-8.0,-8046.0,7906.0
+ITC,2013-03,+,-,-,Reinvestor,7102.0,-3881.0,-3310.0,3221.0
+ITC,2014-03,+,-,-,Reinvestor,7344.0,-3254.0,-4122.0,4090.0
+ITC,2015-03,+,-,-,Shareholder Returns,9843.0,-5275.0,-4661.0,4568.0
+ITC,2016-03,+,-,-,Shareholder Returns,9799.0,-3921.0,-5613.0,5878.0
+ITC,2017-03,+,-,-,Shareholder Returns,10627.0,-3251.0,-7301.0,7376.0
+ITC,2018-03,+,-,-,Shareholder Returns,13169.0,-7114.0,-6221.0,6055.0
+ITC,2019-03,+,-,-,Reinvestor,12583.0,-5546.0,-6869.0,7037.0
+ITC,2020-03,+,-,-,Reinvestor,14690.0,-6174.0,-8181.0,8516.0
+ITC,2021-03,+,+,-,Liquidating Assets,12527.0,5740.0,-18634.0,18267.0
+ITC,2022-03,+,-,-,Shareholder Returns,15776.0,-2238.0,-13580.0,13538.0
+ITC,2023-03,+,-,-,Reinvestor,18878.0,-5732.0,-13006.0,13146.0
+ITC,2024-03,+,+,-,Liquidating Assets,17179.0,1563.0,-18551.0,18742.0
+JINDALSTEL,2013-03,+,-,+,Growth / Mixed,3522.0,-9591.0,6111.0,-6069.0
+JINDALSTEL,2014-03,+,-,+,Growth / Mixed,4580.0,-12694.0,8879.0,-8114.0
+JINDALSTEL,2015-03,+,-,+,Growth / Mixed,1182.0,-6717.0,5708.0,-5535.0
+JINDALSTEL,2016-03,+,-,-,Reinvestor,4333.0,-2262.0,-2672.0,2071.0
+JINDALSTEL,2017-03,+,-,-,Reinvestor,6850.0,-1998.0,-5108.0,4852.0
+JINDALSTEL,2018-03,+,-,-,Reinvestor,7724.0,-1431.0,-6276.0,6293.0
+JINDALSTEL,2019-03,+,-,-,Reinvestor,9027.0,-832.0,-8261.0,8195.0
+JINDALSTEL,2020-03,+,-,-,Reinvestor,8814.0,-1476.0,-7016.0,7338.0
+JINDALSTEL,2021-03,+,-,-,Shareholder Returns,11961.0,-1884.0,-4612.0,10077.0
+JINDALSTEL,2022-03,+,-,-,Shareholder Returns,16048.0,-2331.0,-15120.0,13717.0
+JINDALSTEL,2023-03,+,-,-,Shareholder Returns,7347.0,-4090.0,-2500.0,3257.0
+JINDALSTEL,2024-03,+,-,+,Growth / Mixed,6008.0,-8344.0,1381.0,-2336.0
+JIOFIN,2023-03,+,-,-,Shareholder Returns,2055.0,-1110.0,-889.0,945.0
+JIOFIN,2024-03,-,+,-,Restructuring,-678.0,1441.0,-753.0,763.0
+JSWENERGY,2013-03,+,-,-,Shareholder Returns,1725.0,-944.0,-684.0,781.0
+JSWENERGY,2014-03,+,-,-,Shareholder Returns,2269.0,-363.0,-1859.0,1906.0
+JSWENERGY,2015-03,+,-,-,Shareholder Returns,3394.0,-422.0,-2327.0,2972.0
+JSWENERGY,2016-03,+,-,-,Shareholder Returns,3538.0,-3272.0,-1622.0,266.0
+JSWENERGY,2017-03,+,-,-,Shareholder Returns,3853.0,-762.0,-2595.0,3091.0
+JSWENERGY,2018-03,+,-,-,Shareholder Returns,3934.0,-215.0,-3968.0,3719.0
+JSWENERGY,2019-03,+,-,-,Shareholder Returns,2491.0,-55.0,-2523.0,2436.0
+JSWENERGY,2020-03,+,+,-,Liquidating Assets,2082.0,301.0,-1962.0,2383.0
+JSWENERGY,2021-03,+,-,-,Shareholder Returns,3700.0,-1030.0,-2515.0,2670.0
+JSWENERGY,2022-03,+,-,-,Shareholder Returns,2952.0,-1387.0,-781.0,1565.0
+JSWENERGY,2023-03,+,-,+,Growth / Mixed,2084.0,-6778.0,7327.0,-4694.0
+JSWENERGY,2024-03,+,-,+,Growth / Mixed,6234.0,-8197.0,1675.0,-1963.0
+JSWSTEEL,2013-03,+,-,-,Shareholder Returns,5844.0,-5433.0,-791.0,411.0
+JSWSTEEL,2014-03,+,-,+,Growth / Mixed,2594.0,-5618.0,3300.0,-3024.0
+JSWSTEEL,2015-03,+,-,-,Shareholder Returns,7876.0,-7372.0,-169.0,504.0
+JSWSTEEL,2016-03,+,-,-,Reinvestor,6897.0,-3857.0,-3151.0,3040.0
+JSWSTEEL,2017-03,+,-,-,Shareholder Returns,7888.0,-5094.0,-2710.0,2794.0
+JSWSTEEL,2018-03,+,-,-,Shareholder Returns,12379.0,-4529.0,-8185.0,7850.0
+JSWSTEEL,2019-03,+,-,+,Growth / Mixed,14633.0,-11387.0,1753.0,3246.0
+JSWSTEEL,2020-03,+,-,+,Growth / Mixed,12785.0,-19589.0,5189.0,-6804.0
+JSWSTEEL,2021-03,+,-,-,Shareholder Returns,18789.0,-7702.0,-3110.0,11087.0
+JSWSTEEL,2022-03,+,-,-,Shareholder Returns,26270.0,-14748.0,-14657.0,11522.0
+JSWSTEEL,2023-03,+,-,-,Shareholder Returns,23323.0,-10730.0,-5977.0,12593.0
+JSWSTEEL,2024-03,+,-,-,Shareholder Returns,12078.0,-14467.0,-5005.0,-2389.0
+KOTAKBANK,2013-03,+,-,+,Growth / Mixed,2878.0,-9035.0,7099.0,-6157.0
+KOTAKBANK,2014-03,+,-,-,Shareholder Returns,9068.0,-1130.0,-5814.0,7938.0
+KOTAKBANK,2015-03,+,-,+,Growth / Mixed,2302.0,-4467.0,2426.0,-2165.0
+KOTAKBANK,2016-03,+,-,+,Growth / Mixed,5025.0,-2353.0,2024.0,2672.0
+KOTAKBANK,2017-03,+,-,+,Growth / Mixed,13222.0,-5289.0,6055.0,7933.0
+KOTAKBANK,2018-03,-,-,+,Growth Funded by Debt,-10392.0,-5475.0,14679.0,-15867.0
+KOTAKBANK,2019-03,+,-,+,Growth / Mixed,1822.0,-3323.0,8365.0,-1501.0
+KOTAKBANK,2020-03,+,-,-,Shareholder Returns,46619.0,-13068.0,-735.0,33551.0
+KOTAKBANK,2021-03,+,-,-,Reinvestor,4881.0,-11172.0,-10072.0,-6291.0
+KOTAKBANK,2022-03,+,-,+,Growth / Mixed,8308.0,-10903.0,7543.0,-2595.0
+KOTAKBANK,2023-03,-,-,+,Growth Funded by Debt,-1242.0,-10381.0,1883.0,-11623.0
+KOTAKBANK,2024-03,+,-,+,Growth / Mixed,15685.0,-8919.0,15515.0,6766.0
+LICI,2019-03,+,+,-,Liquidating Assets,13274.0,9636.0,-13700.0,22910.0
+LICI,2020-03,+,-,-,Shareholder Returns,54367.0,-40415.0,-18664.0,13952.0
+LICI,2021-03,+,+,-,Liquidating Assets,80602.0,148447.0,-256125.0,229049.0
+LICI,2022-03,-,+,+,Distress Signal,-3783.0,12531.0,0.0,8748.0
+LICI,2023-03,+,-,-,Shareholder Returns,54519.0,-52848.0,-949.0,1671.0
+LICI,2024-03,+,-,-,Reinvestor,26122.0,-25269.0,-4427.0,853.0
+LODHA,2016-03,+,-,+,Growth / Mixed,387.0,-854.0,330.0,-467.0
+LODHA,2017-03,+,-,-,Shareholder Returns,1469.0,-1174.0,-312.0,295.0
+LODHA,2018-03,+,-,+,Growth / Mixed,696.0,-651.0,24.0,45.0
+LODHA,2019-03,-,-,+,Growth Funded by Debt,-463.0,-175.0,736.0,-638.0
+LODHA,2020-03,+,+,-,Liquidating Assets,3772.0,182.0,-4188.0,3954.0
+LODHA,2021-03,+,+,-,Liquidating Assets,2524.0,420.0,-2835.0,2944.0
+LODHA,2022-03,+,+,-,Liquidating Assets,1998.0,1139.0,-2888.0,3137.0
+LODHA,2023-03,+,+,-,Liquidating Assets,2750.0,1789.0,-3706.0,4539.0
+LODHA,2024-03,+,-,+,Growth / Mixed,2512.0,-2947.0,951.0,-435.0
+LT,2013-03,-,-,+,Growth Funded by Debt,-4355.0,-6922.0,11429.0,-11277.0
+LT,2014-03,-,-,+,Growth Funded by Debt,-7143.0,-5510.0,13136.0,-12653.0
+LT,2015-03,-,-,+,Growth Funded by Debt,-1365.0,-4778.0,7903.0,-6143.0
+LT,2016-03,-,-,+,Growth Funded by Debt,-3240.0,-4627.0,7253.0,-7867.0
+LT,2017-03,+,-,+,Growth / Mixed,6655.0,-9796.0,2896.0,-3141.0
+LT,2018-03,-,+,+,Distress Signal,-10031.0,3914.0,9370.0,-6117.0
+LT,2019-03,-,-,+,Growth Funded by Debt,-4756.0,-11023.0,15440.0,-15779.0
+LT,2020-03,+,-,+,Growth / Mixed,6694.0,-8408.0,6372.0,-1714.0
+LT,2021-03,+,-,-,Shareholder Returns,23074.0,-5750.0,-15274.0,17324.0
+LT,2022-03,+,-,-,Shareholder Returns,19164.0,-3585.0,-15181.0,15579.0
+LT,2023-03,+,-,-,Shareholder Returns,22777.0,-8048.0,-11572.0,14729.0
+LT,2024-03,+,+,-,Liquidating Assets,18266.0,2179.0,-25413.0,20445.0
+LTIM,2013-03,+,-,-,Shareholder Returns,608.0,-224.0,-396.0,384.0
+LTIM,2014-03,+,+,-,Liquidating Assets,628.0,180.0,-769.0,808.0
+LTIM,2015-03,+,-,-,Reinvestor,642.0,-103.0,-497.0,539.0
+LTIM,2016-03,+,-,-,Shareholder Returns,858.0,-40.0,-817.0,818.0
+LTIM,2017-03,+,-,-,Shareholder Returns,1170.0,-961.0,-33.0,209.0
+LTIM,2018-03,+,-,-,Reinvestor,844.0,-452.0,-408.0,392.0
+LTIM,2019-03,+,-,-,Reinvestor,1395.0,-749.0,-594.0,646.0
+LTIM,2020-03,+,-,-,Shareholder Returns,1644.0,-643.0,-890.0,1001.0
+LTIM,2021-03,+,-,-,Shareholder Returns,2400.0,-1657.0,-509.0,743.0
+LTIM,2022-03,+,-,-,Reinvestor,3251.0,-1643.0,-1680.0,1608.0
+LTIM,2023-03,+,-,-,Reinvestor,3095.0,-271.0,-1932.0,2824.0
+LTIM,2024-03,+,-,-,Shareholder Returns,5670.0,-3918.0,-2269.0,1752.0
+M&M,2013-03,-,-,+,Growth Funded by Debt,-922.0,-2903.0,4508.0,-3825.0
+M&M,2014-03,-,-,+,Growth Funded by Debt,-244.0,-4524.0,5577.0,-4768.0
+M&M,2015-03,+,-,+,Growth / Mixed,1055.0,-4357.0,1669.0,-3302.0
+M&M,2016-03,+,-,+,Growth / Mixed,2385.0,-5506.0,2967.0,-3121.0
+M&M,2017-03,+,-,+,Growth / Mixed,183.0,-5875.0,6108.0,-5692.0
+M&M,2018-03,+,-,+,Growth / Mixed,682.0,-5467.0,6314.0,-4785.0
+M&M,2019-03,-,-,+,Growth Funded by Debt,-4347.0,-7174.0,13194.0,-11521.0
+M&M,2020-03,-,-,+,Growth Funded by Debt,-1457.0,-6870.0,6933.0,-8327.0
+M&M,2021-03,+,-,+,Growth / Mixed,17909.0,-19686.0,406.0,-1777.0
+M&M,2022-03,+,-,-,Shareholder Returns,9248.0,-3252.0,-5883.0,5996.0
+M&M,2023-03,-,-,+,Growth Funded by Debt,-7074.0,-8866.0,15946.0,-15940.0
+M&M,2024-03,-,-,+,Growth Funded by Debt,-5630.0,-5615.0,12281.0,-11245.0
+MARUTI,2013-03,+,-,-,Shareholder Returns,4059.0,-3119.0,-979.0,940.0
+MARUTI,2014-03,+,-,-,Shareholder Returns,4995.0,-4997.0,-74.0,-2.0
+MARUTI,2015-03,+,-,-,Shareholder Returns,6449.0,-4491.0,-2004.0,1958.0
+MARUTI,2016-03,+,-,-,Shareholder Returns,8482.0,-7230.0,-1237.0,1252.0
+MARUTI,2017-03,+,-,-,Shareholder Returns,10282.0,-9173.0,-1129.0,1109.0
+MARUTI,2018-03,+,-,-,Shareholder Returns,11788.0,-8302.0,-3436.0,3486.0
+MARUTI,2019-03,+,-,-,Reinvestor,6601.0,-3540.0,-2948.0,3061.0
+MARUTI,2020-03,+,-,-,Reinvestor,3496.0,-557.0,-3104.0,2939.0
+MARUTI,2021-03,+,-,-,Shareholder Returns,8856.0,-7291.0,-1545.0,1565.0
+MARUTI,2022-03,+,-,-,Reinvestor,1840.0,-239.0,-1607.0,1601.0
+MARUTI,2023-03,+,-,-,Shareholder Returns,10815.0,-8820.0,-1214.0,1995.0
+MARUTI,2024-03,+,-,-,Shareholder Returns,16801.0,-11865.0,-4062.0,4936.0
+MOTHERSON,2013-03,+,-,-,Shareholder Returns,1486.0,-1089.0,-256.0,397.0
+MOTHERSON,2014-03,+,-,-,Shareholder Returns,2695.0,-1372.0,-1080.0,1323.0
+MOTHERSON,2015-03,+,-,+,Growth / Mixed,3390.0,-2844.0,494.0,546.0
+MOTHERSON,2016-03,+,-,-,Shareholder Returns,2188.0,-1906.0,-263.0,282.0
+MOTHERSON,2017-03,+,-,+,Growth / Mixed,3800.0,-6145.0,5518.0,-2345.0
+MOTHERSON,2018-03,+,-,-,Shareholder Returns,3264.0,-3194.0,-2221.0,70.0
+MOTHERSON,2019-03,+,-,-,Shareholder Returns,4312.0,-3318.0,-225.0,994.0
+MOTHERSON,2020-03,+,-,-,Shareholder Returns,6352.0,-2220.0,-2803.0,4132.0
+MOTHERSON,2021-03,+,-,-,Shareholder Returns,5051.0,-1886.0,-2098.0,3165.0
+MOTHERSON,2022-03,+,-,-,Shareholder Returns,2463.0,-2304.0,-1217.0,159.0
+MOTHERSON,2023-03,+,-,-,Shareholder Returns,4643.0,-2248.0,-2734.0,2395.0
+MOTHERSON,2024-03,+,-,+,Growth / Mixed,7569.0,-6644.0,1281.0,925.0
+NAUKRI,2013-03,+,-,-,Reinvestor,75.0,-46.0,-12.0,29.0
+NAUKRI,2014-03,+,-,+,Growth / Mixed,81.0,-204.0,130.0,-123.0
+NAUKRI,2015-03,+,-,+,Growth / Mixed,51.0,-1051.0,1025.0,-1000.0
+NAUKRI,2016-03,+,-,-,Reinvestor,78.0,-2.0,-66.0,76.0
+NAUKRI,2017-03,+,-,-,Reinvestor,213.0,-165.0,-42.0,48.0
+NAUKRI,2018-03,+,-,-,Reinvestor,253.0,-149.0,-75.0,104.0
+NAUKRI,2019-03,+,-,-,Reinvestor,276.0,-59.0,-78.0,217.0
+NAUKRI,2020-03,+,+,-,Liquidating Assets,350.0,97.0,-143.0,447.0
+NAUKRI,2021-03,+,-,+,Growth / Mixed,276.0,-2043.0,1880.0,-1767.0
+NAUKRI,2022-03,+,-,+,Growth / Mixed,707.0,-1177.0,35.0,-470.0
+NAUKRI,2023-03,+,-,+,Growth / Mixed,512.0,-358.0,2.0,154.0
+NAUKRI,2024-03,+,-,+,Growth / Mixed,702.0,-852.0,120.0,-150.0
+NESTLEIND,2013-12,+,-,-,Shareholder Returns,1796.0,-441.0,-580.0,1355.0
+NESTLEIND,2014-12,+,-,-,Shareholder Returns,1644.0,-432.0,-1635.0,1212.0
+NESTLEIND,2015-12,+,-,-,Shareholder Returns,1098.0,-70.0,-498.0,1028.0
+NESTLEIND,2016-12,+,-,-,Shareholder Returns,1466.0,-126.0,-666.0,1340.0
+NESTLEIND,2017-12,+,-,-,Shareholder Returns,1818.0,-131.0,-997.0,1687.0
+NESTLEIND,2018-12,+,-,-,Shareholder Returns,2052.0,-52.0,-1317.0,2000.0
+NESTLEIND,2019-12,+,+,-,Liquidating Assets,2295.0,83.0,-3602.0,2378.0
+NESTLEIND,2020-12,+,-,-,Shareholder Returns,2454.0,-321.0,-1956.0,2133.0
+NESTLEIND,2021-12,+,-,-,Shareholder Returns,2236.0,-1920.0,-2020.0,316.0
+NESTLEIND,2022-12,+,-,-,Shareholder Returns,2737.0,-392.0,-2123.0,2345.0
+NESTLEIND,2023-12,+,-,-,Shareholder Returns,3392.0,-927.0,-2436.0,2465.0
+NESTLEIND,2024-03,+,-,-,Shareholder Returns,4175.0,-1237.0,-3135.0,2938.0
+NHPC,2013-03,+,-,-,Reinvestor,2846.0,-1330.0,-1344.0,1516.0
+NHPC,2014-03,+,-,-,Shareholder Returns,3824.0,-1122.0,-4536.0,2702.0
+NHPC,2015-03,+,-,-,Shareholder Returns,4061.0,-768.0,-2494.0,3293.0
+NHPC,2016-03,+,-,-,Shareholder Returns,5971.0,-746.0,-4000.0,5225.0
+NHPC,2017-03,+,-,-,Shareholder Returns,8329.0,-1864.0,-7812.0,6465.0
+NHPC,2018-03,+,-,-,Shareholder Returns,4696.0,-886.0,-3863.0,3810.0
+NHPC,2019-03,+,-,-,Shareholder Returns,3824.0,-1182.0,-2637.0,2642.0
+NHPC,2020-03,+,-,+,Growth / Mixed,2993.0,-2987.0,12.0,6.0
+NHPC,2021-03,+,-,-,Shareholder Returns,5070.0,-1607.0,-3058.0,3463.0
+NHPC,2022-03,+,-,-,Shareholder Returns,4590.0,-3084.0,-638.0,1506.0
+NHPC,2023-03,+,-,-,Shareholder Returns,4705.0,-4191.0,-795.0,514.0
+NHPC,2024-03,+,-,-,Shareholder Returns,6938.0,-5968.0,-581.0,970.0
+NTPC,2013-03,+,-,+,Growth / Mixed,16508.0,-16845.0,988.0,-337.0
+NTPC,2014-03,+,-,-,Shareholder Returns,16531.0,-15509.0,-2709.0,1022.0
+NTPC,2015-03,+,-,-,Shareholder Returns,14889.0,-15977.0,-1474.0,-1088.0
+NTPC,2016-03,+,-,-,Shareholder Returns,24125.0,-19162.0,-3899.0,4963.0
+NTPC,2017-03,+,-,+,Growth / Mixed,20167.0,-24480.0,3138.0,-4313.0
+NTPC,2018-03,+,-,+,Growth / Mixed,19670.0,-20678.0,1028.0,-1008.0
+NTPC,2019-03,+,-,+,Growth / Mixed,18686.0,-24063.0,4927.0,-5377.0
+NTPC,2020-03,+,-,+,Growth / Mixed,23890.0,-29628.0,6004.0,-5738.0
+NTPC,2021-03,+,-,-,Shareholder Returns,32444.0,-21034.0,-11049.0,11410.0
+NTPC,2022-03,+,-,-,Shareholder Returns,41788.0,-22891.0,-19172.0,18897.0
+NTPC,2023-03,+,-,-,Shareholder Returns,47152.0,-26145.0,-21217.0,21007.0
+NTPC,2024-03,+,-,-,Shareholder Returns,40785.0,-32141.0,-8246.0,8644.0
+ONGC,2013-03,+,-,-,Shareholder Returns,39874.0,-41220.0,-6927.0,-1346.0
+ONGC,2014-03,+,-,+,Growth / Mixed,53270.0,-63633.0,15225.0,-10363.0
+ONGC,2015-03,+,-,-,Shareholder Returns,33950.0,-30058.0,-10641.0,3892.0
+ONGC,2016-03,+,-,-,Shareholder Returns,46292.0,-38256.0,-8972.0,8036.0
+ONGC,2017-03,+,-,-,Shareholder Returns,45780.0,-43815.0,-1867.0,1965.0
+ONGC,2018-03,+,-,+,Growth / Mixed,56792.0,-66798.0,9909.0,-10006.0
+ONGC,2019-03,+,-,-,Shareholder Returns,61458.0,-37132.0,-23324.0,24326.0
+ONGC,2020-03,+,-,-,Shareholder Returns,70593.0,-53159.0,-16726.0,17434.0
+ONGC,2021-03,+,-,-,Shareholder Returns,47185.0,-39141.0,-8239.0,8044.0
+ONGC,2022-03,+,-,-,Shareholder Returns,78248.0,-41197.0,-35790.0,37051.0
+ONGC,2023-03,+,-,-,Shareholder Returns,86062.0,-74690.0,-12876.0,11372.0
+ONGC,2024-03,+,-,-,Shareholder Returns,99263.0,-57203.0,-45650.0,42060.0
+PFC,2013-03,-,+,+,Distress Signal,-25102.0,22.0,27947.0,-25080.0
+PFC,2014-03,-,+,+,Distress Signal,-22473.0,9.0,17671.0,-22464.0
+PFC,2015-03,-,-,+,Growth Funded by Debt,-21455.0,-491.0,26916.0,-21946.0
+PFC,2016-03,-,-,+,Growth Funded by Debt,-13298.0,-1973.0,10383.0,-15271.0
+PFC,2017-03,+,-,+,Growth / Mixed,1795.0,-667.0,1950.0,1128.0
+PFC,2018-03,-,+,+,Distress Signal,-57148.0,1409.0,52018.0,-55739.0
+PFC,2019-03,-,-,+,Growth Funded by Debt,-80252.0,-13463.0,93616.0,-93715.0
+PFC,2020-03,-,-,+,Growth Funded by Debt,-42148.0,-73.0,43399.0,-42221.0
+PFC,2021-03,-,+,+,Distress Signal,-59143.0,1741.0,60424.0,-57402.0
+PFC,2022-03,+,-,-,Reinvestor,4904.0,-547.0,-8371.0,4357.0
+PFC,2023-03,-,-,+,Growth Funded by Debt,-74717.0,-1694.0,75537.0,-76411.0
+PFC,2024-03,-,-,+,Growth Funded by Debt,-97820.0,-3409.0,101261.0,-101229.0
+PIDILITIND,2013-03,+,-,-,Shareholder Returns,472.0,-144.0,-339.0,328.0
+PIDILITIND,2014-03,+,-,-,Reinvestor,394.0,-99.0,-242.0,295.0
+PIDILITIND,2015-03,+,-,-,Shareholder Returns,552.0,-436.0,-165.0,116.0
+PIDILITIND,2016-03,+,-,-,Shareholder Returns,907.0,-491.0,-371.0,416.0
+PIDILITIND,2017-03,+,-,+,Growth / Mixed,794.0,-879.0,41.0,-85.0
+PIDILITIND,2018-03,+,+,-,Liquidating Assets,796.0,39.0,-790.0,835.0
+PIDILITIND,2019-03,+,-,-,Reinvestor,845.0,-513.0,-361.0,332.0
+PIDILITIND,2020-03,+,+,-,Liquidating Assets,1280.0,103.0,-849.0,1383.0
+PIDILITIND,2021-03,+,-,-,Shareholder Returns,1392.0,-1688.0,-76.0,-296.0
+PIDILITIND,2022-03,+,-,-,Reinvestor,955.0,-558.0,-468.0,397.0
+PIDILITIND,2023-03,+,-,-,Shareholder Returns,1558.0,-899.0,-656.0,659.0
+PIDILITIND,2024-03,+,-,-,Shareholder Returns,2724.0,-1769.0,-742.0,955.0
+PNB,2013-03,-,-,-,Pre-Revenue / Cash Burn,-692.0,-600.0,-694.0,-1292.0
+PNB,2014-03,+,-,+,Growth / Mixed,16906.0,-302.0,2129.0,16604.0
+PNB,2015-03,+,-,+,Growth / Mixed,4814.0,-872.0,7451.0,3942.0
+PNB,2016-03,+,-,+,Growth / Mixed,14167.0,-1352.0,5975.0,12815.0
+PNB,2017-03,+,+,-,Liquidating Assets,21938.0,159.0,-9767.0,22097.0
+PNB,2018-03,-,+,+,Distress Signal,-1742.0,392.0,7460.0,-1350.0
+PNB,2019-03,-,-,+,Growth Funded by Debt,-33532.0,-629.0,13969.0,-34161.0
+PNB,2020-03,-,-,+,Growth Funded by Debt,-12793.0,-338.0,13591.0,-13131.0
+PNB,2021-03,+,-,+,Growth / Mixed,30950.0,-787.0,5415.0,30163.0
+PNB,2022-03,+,-,+,Growth / Mixed,20032.0,-1204.0,2032.0,18828.0
+PNB,2023-03,+,-,+,Growth / Mixed,22592.0,-732.0,1275.0,21860.0
+PNB,2024-03,-,-,+,Growth Funded by Debt,-27939.0,-1506.0,3518.0,-29445.0
+POWERGRID,2013-03,+,-,+,Growth / Mixed,11690.0,-22084.0,9962.0,-10394.0
+POWERGRID,2014-03,+,-,+,Growth / Mixed,15223.0,-26639.0,13712.0,-11416.0
+POWERGRID,2015-03,+,-,+,Growth / Mixed,15800.0,-24185.0,6399.0,-8385.0
+POWERGRID,2016-03,+,-,+,Growth / Mixed,15008.0,-21576.0,5621.0,-6568.0
+POWERGRID,2017-03,+,-,+,Growth / Mixed,21575.0,-23836.0,3959.0,-2261.0
+POWERGRID,2018-03,+,-,+,Growth / Mixed,22710.0,-25701.0,1285.0,-2991.0
+POWERGRID,2019-03,+,-,-,Shareholder Returns,23271.0,-18727.0,-2431.0,4544.0
+POWERGRID,2020-03,+,-,-,Shareholder Returns,30739.0,-10733.0,-18806.0,20006.0
+POWERGRID,2021-03,+,-,-,Shareholder Returns,29403.0,-9244.0,-20521.0,20159.0
+POWERGRID,2022-03,+,+,-,Liquidating Assets,26124.0,753.0,-28967.0,26877.0
+POWERGRID,2023-03,+,-,-,Shareholder Returns,40203.0,-7138.0,-30450.0,33065.0
+POWERGRID,2024-03,+,-,-,Shareholder Returns,37290.0,-13114.0,-25903.0,24176.0
+RECLTD,2013-03,-,+,+,Distress Signal,-20059.0,152.0,16059.0,-19907.0
+RECLTD,2014-03,-,+,+,Distress Signal,-17244.0,136.0,16815.0,-17108.0
+RECLTD,2015-03,-,+,+,Distress Signal,-23898.0,151.0,23098.0,-23747.0
+RECLTD,2016-03,-,-,+,Growth Funded by Debt,-13278.0,-756.0,15291.0,-14034.0
+RECLTD,2017-03,+,-,-,Shareholder Returns,6805.0,-101.0,-3947.0,6704.0
+RECLTD,2018-03,-,+,+,Distress Signal,-32510.0,46.0,28244.0,-32464.0
+RECLTD,2019-03,-,+,+,Distress Signal,-35866.0,457.0,35543.0,-35409.0
+RECLTD,2020-03,-,+,+,Distress Signal,-32712.0,121.0,33926.0,-32591.0
+RECLTD,2021-03,-,+,+,Distress Signal,-43512.0,861.0,42113.0,-42651.0
+RECLTD,2022-03,-,-,+,Growth Funded by Debt,-819.0,-287.0,68.0,-1106.0
+RECLTD,2023-03,-,-,+,Growth Funded by Debt,-37360.0,-943.0,38123.0,-38303.0
+RECLTD,2024-03,-,-,+,Growth Funded by Debt,-57723.0,-1831.0,59588.0,-59554.0
+RELIANCE,2013-03,+,-,+,Growth / Mixed,36918.0,-27601.0,408.0,9317.0
+RELIANCE,2014-03,+,-,+,Growth / Mixed,43261.0,-73070.0,13713.0,-29809.0
+RELIANCE,2015-03,+,-,+,Growth / Mixed,34374.0,-64706.0,8444.0,-30332.0
+RELIANCE,2016-03,+,-,-,Shareholder Returns,38134.0,-36186.0,-3210.0,1948.0
+RELIANCE,2017-03,+,-,+,Growth / Mixed,49550.0,-66201.0,8617.0,-16651.0
+RELIANCE,2018-03,+,-,-,Shareholder Returns,71459.0,-68192.0,-2001.0,3267.0
+RELIANCE,2019-03,+,-,+,Growth / Mixed,42346.0,-94507.0,55906.0,-52161.0
+RELIANCE,2020-03,+,-,-,Shareholder Returns,94877.0,-72497.0,-2541.0,22380.0
+RELIANCE,2021-03,+,-,+,Growth / Mixed,26958.0,-142385.0,101904.0,-115427.0
+RELIANCE,2022-03,+,-,+,Growth / Mixed,110654.0,-109162.0,17289.0,1492.0
+RELIANCE,2023-03,+,-,+,Growth / Mixed,115032.0,-93001.0,10455.0,22031.0
+RELIANCE,2024-03,+,-,-,Shareholder Returns,158788.0,-113581.0,-16646.0,45207.0
+SBILIFE,2013-03,+,-,-,Shareholder Returns,1130.0,-227.0,-58.0,903.0
+SBILIFE,2014-03,+,-,-,Reinvestor,166.0,-708.0,-58.0,-542.0
+SBILIFE,2015-03,+,-,-,Shareholder Returns,2711.0,-178.0,-117.0,2533.0
+SBILIFE,2016-03,+,-,-,Shareholder Returns,5778.0,-7204.0,-144.0,-1426.0
+SBILIFE,2017-03,+,-,-,Shareholder Returns,8525.0,-9032.0,-144.0,-507.0
+SBILIFE,2018-03,+,-,-,Shareholder Returns,10395.0,-8910.0,-221.0,1485.0
+SBILIFE,2019-03,+,-,-,Shareholder Returns,13473.0,-13552.0,-241.0,-79.0
+SBILIFE,2020-03,+,-,-,Shareholder Returns,19299.0,-16986.0,-198.0,2313.0
+SBILIFE,2021-03,+,-,+,Growth / Mixed,23878.0,-19203.0,3.0,4675.0
+SBILIFE,2022-03,+,-,-,Shareholder Returns,21852.0,-21611.0,-231.0,241.0
+SBILIFE,2023-03,+,-,-,Shareholder Returns,28656.0,-30203.0,-415.0,-1547.0
+SBILIFE,2024-03,+,-,-,Shareholder Returns,29122.0,-31221.0,-227.0,-2099.0
+SBIN,2013-03,+,-,-,Shareholder Returns,24332.0,-2271.0,-4424.0,22061.0
+SBIN,2014-03,+,-,+,Growth / Mixed,19142.0,-791.0,3583.0,18351.0
+SBIN,2015-03,+,-,-,Shareholder Returns,26297.0,-3424.0,-1553.0,22873.0
+SBIN,2016-03,+,-,+,Growth / Mixed,14477.0,-2747.0,4348.0,11730.0
+SBIN,2017-03,+,-,-,Reinvestor,77406.0,-4572.0,-4196.0,72834.0
+SBIN,2018-03,-,+,+,Distress Signal,-96508.0,13053.0,5547.0,-83455.0
+SBIN,2019-03,+,+,+,Cash Accumulator,29556.0,220.0,448.0,29776.0
+SBIN,2020-03,+,-,+,Growth / Mixed,23929.0,-555.0,5430.0,23374.0
+SBIN,2021-03,+,-,+,Growth / Mixed,89919.0,-3670.0,7143.0,86249.0
+SBIN,2022-03,+,-,-,Shareholder Returns,57695.0,-2652.0,-3845.0,55043.0
+SBIN,2023-03,-,-,+,Growth Funded by Debt,-86014.0,-966.0,6386.0,-86980.0
+SBIN,2024-03,+,-,-,Reinvestor,21632.0,-3476.0,-9896.0,18156.0
+SHREECEM,2013-06,+,-,-,Shareholder Returns,1260.0,-270.0,-982.0,990.0
+SHREECEM,2014-06,+,-,-,Shareholder Returns,1401.0,-1234.0,-156.0,167.0
+SHREECEM,2015-06,+,-,-,Shareholder Returns,1239.0,-990.0,-259.0,249.0
+SHREECEM,2016-03,+,-,-,Shareholder Returns,1566.0,-1265.0,-271.0,301.0
+SHREECEM,2017-03,+,-,-,Shareholder Returns,2202.0,-2048.0,-167.0,154.0
+SHREECEM,2018-03,+,-,+,Growth / Mixed,1879.0,-3595.0,1726.0,-1716.0
+SHREECEM,2019-03,+,-,-,Shareholder Returns,2080.0,-720.0,-1276.0,1360.0
+SHREECEM,2020-03,+,-,+,Growth / Mixed,3973.0,-5590.0,1581.0,-1617.0
+SHREECEM,2021-03,+,-,-,Shareholder Returns,4254.0,-2651.0,-1233.0,1603.0
+SHREECEM,2022-03,+,-,-,Shareholder Returns,2668.0,-2143.0,-849.0,525.0
+SHREECEM,2023-03,+,-,-,Shareholder Returns,2569.0,-2405.0,-277.0,164.0
+SHREECEM,2024-03,+,-,-,Shareholder Returns,3347.0,-1418.0,-1710.0,1929.0
+SHRIRAMFIN,2013-03,-,-,+,Growth Funded by Debt,-8359.0,-41.0,9060.0,-8400.0
+SHRIRAMFIN,2014-03,-,-,+,Growth Funded by Debt,-4055.0,-112.0,5010.0,-4167.0
+SHRIRAMFIN,2015-03,-,-,+,Growth Funded by Debt,-9611.0,-45.0,7836.0,-9656.0
+SHRIRAMFIN,2016-03,-,-,+,Growth Funded by Debt,-5507.0,-36.0,2822.0,-5543.0
+SHRIRAMFIN,2017-03,-,-,+,Growth Funded by Debt,-2677.0,-2.0,3017.0,-2679.0
+SHRIRAMFIN,2018-03,-,+,+,Distress Signal,-13142.0,86.0,13014.0,-13056.0
+SHRIRAMFIN,2019-03,-,-,+,Growth Funded by Debt,-5535.0,-76.0,5550.0,-5611.0
+SHRIRAMFIN,2020-03,-,-,+,Growth Funded by Debt,-2464.0,-55.0,4579.0,-2519.0
+SHRIRAMFIN,2021-03,-,-,+,Growth Funded by Debt,-4239.0,-25.0,12226.0,-4264.0
+SHRIRAMFIN,2022-03,-,-,+,Growth Funded by Debt,-8859.0,-34.0,8505.0,-8893.0
+SHRIRAMFIN,2023-03,-,+,+,Distress Signal,-17625.0,5076.0,11820.0,-12549.0
+SHRIRAMFIN,2024-03,-,-,+,Growth Funded by Debt,-31101.0,-258.0,27609.0,-31359.0
+SIEMENS,2011-09,+,+,-,Liquidating Assets,3.0,264.0,-196.0,267.0
+SIEMENS,2014-09,+,+,-,Liquidating Assets,608.0,130.0,-220.0,738.0
+SIEMENS,2015-09,+,+,-,Liquidating Assets,574.0,646.0,-245.0,1220.0
+SIEMENS,2016-09,+,+,-,Liquidating Assets,513.0,237.0,-1614.0,750.0
+SIEMENS,2017-09,+,+,-,Liquidating Assets,573.0,1321.0,-285.0,1894.0
+SIEMENS,2018-09,+,-,-,Reinvestor,100.0,-174.0,-305.0,-74.0
+SIEMENS,2019-09,+,-,-,Shareholder Returns,1273.0,-1135.0,-312.0,138.0
+SIEMENS,2020-09,+,+,-,Liquidating Assets,720.0,871.0,-386.0,1591.0
+SIEMENS,2021-09,+,-,-,Shareholder Returns,1422.0,-2389.0,-502.0,-967.0
+SIEMENS,2022-09,+,-,-,Reinvestor,978.0,-34.0,-392.0,944.0
+SIEMENS,2023-09,+,-,-,Reinvestor,1400.0,-759.0,-450.0,641.0
+SIEMENS,2024-09,+,-,-,Reinvestor,1670.0,-502.0,-523.0,1168.0
+SUNPHARMA,2013-03,+,-,-,Reinvestor,3357.0,-2375.0,-665.0,982.0
+SUNPHARMA,2014-03,+,-,+,Growth / Mixed,3959.0,-2176.0,507.0,1783.0
+SUNPHARMA,2015-03,+,-,-,Shareholder Returns,5616.0,-1502.0,-1187.0,4114.0
+SUNPHARMA,2016-03,+,-,-,Shareholder Returns,6686.0,-3949.0,-1889.0,2737.0
+SUNPHARMA,2017-03,+,-,-,Reinvestor,7082.0,-4186.0,-2285.0,2896.0
+SUNPHARMA,2018-03,+,-,-,Shareholder Returns,3907.0,-3104.0,-1539.0,803.0
+SUNPHARMA,2019-03,+,-,-,Reinvestor,2196.0,-310.0,-2731.0,1886.0
+SUNPHARMA,2020-03,+,-,-,Shareholder Returns,6555.0,-2225.0,-5715.0,4330.0
+SUNPHARMA,2021-03,+,+,-,Liquidating Assets,6170.0,407.0,-5980.0,6577.0
+SUNPHARMA,2022-03,+,-,-,Shareholder Returns,8985.0,-5556.0,-5193.0,3429.0
+SUNPHARMA,2023-03,+,-,+,Growth / Mixed,4959.0,-7220.0,2376.0,-2261.0
+SUNPHARMA,2024-03,+,-,-,Shareholder Returns,12135.0,-763.0,-6710.0,11372.0
+TATACONSUM,2013-03,+,+,+,Cash Accumulator,173.0,24.0,186.0,197.0
+TATACONSUM,2014-03,+,-,-,Reinvestor,422.0,-1.0,-363.0,421.0
+TATACONSUM,2015-03,+,-,-,Shareholder Returns,418.0,-207.0,-392.0,211.0
+TATACONSUM,2016-03,+,+,-,Liquidating Assets,116.0,145.0,-282.0,261.0
+TATACONSUM,2017-03,+,+,-,Liquidating Assets,741.0,145.0,-816.0,886.0
+TATACONSUM,2018-03,+,-,-,Reinvestor,356.0,-31.0,-30.0,325.0
+TATACONSUM,2019-03,+,+,-,Liquidating Assets,210.0,53.0,-224.0,263.0
+TATACONSUM,2020-03,+,-,-,Shareholder Returns,1082.0,-622.0,-308.0,460.0
+TATACONSUM,2021-03,+,-,-,Shareholder Returns,1656.0,-346.0,-426.0,1310.0
+TATACONSUM,2022-03,+,-,-,Shareholder Returns,1516.0,-1317.0,-995.0,199.0
+TATACONSUM,2023-03,+,-,-,Shareholder Returns,1461.0,-834.0,-714.0,627.0
+TATACONSUM,2024-03,+,-,+,Growth / Mixed,1937.0,-1911.0,256.0,26.0
+TATAMOTORS,2013-03,+,-,-,Shareholder Returns,22163.0,-22969.0,-1692.0,-806.0
+TATAMOTORS,2014-03,+,-,-,Shareholder Returns,36151.0,-27991.0,-3883.0,8160.0
+TATAMOTORS,2015-03,+,-,+,Growth / Mixed,35531.0,-36232.0,5201.0,-701.0
+TATAMOTORS,2016-03,+,-,-,Shareholder Returns,37900.0,-36694.0,-3795.0,1206.0
+TATAMOTORS,2017-03,+,-,+,Growth / Mixed,30199.0,-39571.0,6205.0,-9372.0
+TATAMOTORS,2018-03,+,-,+,Growth / Mixed,23857.0,-25139.0,2012.0,-1282.0
+TATAMOTORS,2019-03,+,-,+,Growth / Mixed,18891.0,-20878.0,8830.0,-1987.0
+TATAMOTORS,2020-03,+,-,+,Growth / Mixed,26633.0,-33115.0,3390.0,-6482.0
+TATAMOTORS,2021-03,+,-,+,Growth / Mixed,29001.0,-25672.0,9904.0,3329.0
+TATAMOTORS,2022-03,+,-,-,Reinvestor,14283.0,-4444.0,-3380.0,9839.0
+TATAMOTORS,2023-03,+,-,-,Shareholder Returns,35388.0,-15417.0,-26243.0,19971.0
+TATAMOTORS,2024-03,+,-,-,Shareholder Returns,67915.0,-22782.0,-37006.0,45133.0
+TATAPOWER,2013-03,+,-,-,Shareholder Returns,3286.0,-4026.0,-593.0,-740.0
+TATAPOWER,2014-03,+,-,-,Shareholder Returns,6483.0,-3609.0,-3265.0,2874.0
+TATAPOWER,2015-03,+,-,-,Shareholder Returns,5981.0,-3865.0,-2239.0,2116.0
+TATAPOWER,2016-03,+,-,-,Shareholder Returns,7415.0,-1805.0,-6183.0,5610.0
+TATAPOWER,2017-03,+,-,+,Growth / Mixed,7014.0,-7373.0,937.0,-359.0
+TATAPOWER,2018-03,+,-,-,Shareholder Returns,6364.0,-1512.0,-4726.0,4852.0
+TATAPOWER,2019-03,+,-,-,Shareholder Returns,4574.0,-272.0,-5184.0,4302.0
+TATAPOWER,2020-03,+,-,-,Shareholder Returns,7375.0,-493.0,-5110.0,6882.0
+TATAPOWER,2021-03,+,+,-,Liquidating Assets,8345.0,993.0,-7603.0,9338.0
+TATAPOWER,2022-03,+,-,-,Shareholder Returns,6693.0,-6250.0,-1183.0,443.0
+TATAPOWER,2023-03,+,-,+,Growth / Mixed,7166.0,-7263.0,1341.0,-97.0
+TATAPOWER,2024-03,+,-,-,Shareholder Returns,12596.0,-9027.0,-4497.0,3569.0
+TATASTEEL,2013-03,+,-,-,Reinvestor,14035.0,-13099.0,-1780.0,936.0
+TATASTEEL,2014-03,+,-,+,Growth / Mixed,13146.0,-15378.0,1015.0,-2232.0
+TATASTEEL,2015-03,+,-,-,Reinvestor,11880.0,-9021.0,-2617.0,2859.0
+TATASTEEL,2016-03,+,-,-,Reinvestor,11455.0,-8794.0,-4729.0,2661.0
+TATASTEEL,2017-03,+,-,-,Reinvestor,10824.0,-9490.0,-2579.0,1334.0
+TATASTEEL,2018-03,+,-,+,Growth / Mixed,8023.0,-11730.0,6640.0,-3707.0
+TATASTEEL,2019-03,+,-,-,Shareholder Returns,25336.0,-29176.0,-673.0,-3840.0
+TATASTEEL,2020-03,+,-,-,Shareholder Returns,20169.0,-14012.0,-1695.0,6157.0
+TATASTEEL,2021-03,+,-,-,Shareholder Returns,44327.0,-9437.0,-37090.0,34890.0
+TATASTEEL,2022-03,+,-,-,Shareholder Returns,44381.0,-10905.0,-23401.0,33476.0
+TATASTEEL,2023-03,+,-,-,Shareholder Returns,21683.0,-18179.0,-6981.0,3504.0
+TATASTEEL,2024-03,+,-,-,Reinvestor,20301.0,-14253.0,-11097.0,6048.0
+TCS,2013-03,+,-,-,Reinvestor,11615.0,-6038.0,-5729.0,5577.0
+TCS,2014-03,+,-,-,Reinvestor,14751.0,-9452.0,-5673.0,5299.0
+TCS,2015-03,+,-,-,Reinvestor,19369.0,-1807.0,-17168.0,17562.0
+TCS,2016-03,+,-,-,Reinvestor,19109.0,-5010.0,-9666.0,14099.0
+TCS,2017-03,+,-,-,Reinvestor,25223.0,-16895.0,-11026.0,8328.0
+TCS,2018-03,+,+,-,Liquidating Assets,25067.0,3104.0,-26885.0,28171.0
+TCS,2019-03,+,+,-,Liquidating Assets,28593.0,1645.0,-27897.0,30238.0
+TCS,2020-03,+,+,-,Liquidating Assets,32369.0,8968.0,-39915.0,41337.0
+TCS,2021-03,+,-,-,Shareholder Returns,38802.0,-7956.0,-32634.0,30846.0
+TCS,2022-03,+,-,-,Shareholder Returns,39949.0,-738.0,-33581.0,39211.0
+TCS,2023-03,+,+,-,Liquidating Assets,41965.0,548.0,-47878.0,42513.0
+TCS,2024-03,+,+,-,Liquidating Assets,44338.0,6091.0,-48536.0,50429.0
+TECHM,2013-03,+,-,+,Growth / Mixed,855.0,-622.0,65.0,233.0
+TECHM,2014-03,+,+,-,Liquidating Assets,1596.0,291.0,-972.0,1887.0
+TECHM,2015-03,+,-,-,Reinvestor,2448.0,-1865.0,-829.0,583.0
+TECHM,2016-03,+,-,-,Shareholder Returns,3137.0,-1453.0,-496.0,1684.0
+TECHM,2017-03,+,-,-,Shareholder Returns,4071.0,-2893.0,-1571.0,1178.0
+TECHM,2018-03,+,-,-,Reinvestor,3554.0,-3319.0,-269.0,235.0
+TECHM,2019-03,+,-,-,Shareholder Returns,4432.0,-2104.0,-2251.0,2328.0
+TECHM,2020-03,+,+,-,Liquidating Assets,4358.0,1081.0,-4466.0,5439.0
+TECHM,2021-03,+,-,-,Shareholder Returns,8094.0,-5433.0,-2987.0,2661.0
+TECHM,2022-03,+,+,-,Liquidating Assets,5285.0,480.0,-4667.0,5765.0
+TECHM,2023-03,+,-,-,Shareholder Returns,5572.0,-226.0,-5078.0,5346.0
+TECHM,2024-03,+,-,-,Shareholder Returns,6376.0,-1318.0,-4767.0,5058.0
+TITAN,2013-03,+,-,-,Reinvestor,553.0,-142.0,-236.0,411.0
+TITAN,2014-03,-,-,+,Growth Funded by Debt,-555.0,-271.0,497.0,-826.0
+TITAN,2015-03,+,-,-,Reinvestor,503.0,-118.0,-1005.0,385.0
+TITAN,2016-03,+,-,-,Reinvestor,576.0,-159.0,-505.0,417.0
+TITAN,2017-03,+,-,-,Shareholder Returns,1712.0,-953.0,-166.0,759.0
+TITAN,2018-03,-,+,-,Restructuring,-51.0,98.0,-252.0,47.0
+TITAN,2019-03,+,-,-,Reinvestor,1243.0,-797.0,-489.0,446.0
+TITAN,2020-03,-,+,-,Restructuring,-348.0,235.0,-242.0,-113.0
+TITAN,2021-03,+,-,-,Shareholder Returns,4139.0,-2799.0,-1234.0,1340.0
+TITAN,2022-03,-,+,-,Restructuring,-724.0,1165.0,-403.0,441.0
+TITAN,2023-03,+,-,+,Growth / Mixed,1370.0,-1814.0,457.0,-444.0
+TITAN,2024-03,+,-,-,Reinvestor,1695.0,-189.0,-1329.0,1506.0
+TORNTPHARM,2013-03,+,-,+,Growth / Mixed,153.0,-247.0,20.0,-94.0
+TORNTPHARM,2014-03,+,-,+,Growth / Mixed,599.0,-418.0,86.0,181.0
+TORNTPHARM,2015-03,+,-,+,Growth / Mixed,810.0,-2113.0,1212.0,-1303.0
+TORNTPHARM,2016-03,+,-,-,Shareholder Returns,2742.0,-869.0,-1435.0,1873.0
+TORNTPHARM,2017-03,+,-,-,Shareholder Returns,1009.0,-798.0,-193.0,211.0
+TORNTPHARM,2018-03,+,-,+,Growth / Mixed,894.0,-4677.0,3417.0,-3783.0
+TORNTPHARM,2019-03,+,-,-,Shareholder Returns,1798.0,-246.0,-1314.0,1552.0
+TORNTPHARM,2020-03,+,+,-,Liquidating Assets,1393.0,229.0,-1549.0,1622.0
+TORNTPHARM,2021-03,+,-,-,Shareholder Returns,2005.0,-444.0,-1651.0,1561.0
+TORNTPHARM,2022-03,+,-,-,Shareholder Returns,1803.0,-196.0,-1781.0,1607.0
+TORNTPHARM,2023-03,+,-,+,Growth / Mixed,2368.0,-2335.0,77.0,33.0
+TORNTPHARM,2024-03,+,-,-,Shareholder Returns,3266.0,-160.0,-2780.0,3106.0
+TRENT,2013-03,+,-,+,Growth / Mixed,31.0,-276.0,147.0,-245.0
+TRENT,2014-03,-,-,-,Pre-Revenue / Cash Burn,-46.0,-48.0,-50.0,-94.0
+TRENT,2015-03,-,-,+,Growth Funded by Debt,-10.0,-306.0,310.0,-316.0
+TRENT,2016-03,+,-,-,Shareholder Returns,109.0,-98.0,-13.0,11.0
+TRENT,2017-03,+,-,-,Shareholder Returns,102.0,-44.0,-51.0,58.0
+TRENT,2018-03,+,-,-,Reinvestor,77.0,-4.0,-74.0,73.0
+TRENT,2019-03,+,-,+,Growth / Mixed,21.0,-37.0,37.0,-16.0
+TRENT,2020-03,+,-,+,Growth / Mixed,361.0,-809.0,452.0,-448.0
+TRENT,2021-03,+,+,-,Liquidating Assets,285.0,18.0,-283.0,303.0
+TRENT,2022-03,+,+,-,Liquidating Assets,58.0,56.0,-108.0,114.0
+TRENT,2023-03,+,-,-,Shareholder Returns,595.0,-103.0,-491.0,492.0
+TRENT,2024-03,+,-,-,Reinvestor,1349.0,-508.0,-629.0,841.0
+TVSMOTOR,2013-03,+,-,-,Shareholder Returns,464.0,-120.0,-402.0,344.0
+TVSMOTOR,2014-03,+,-,-,Shareholder Returns,470.0,-235.0,-216.0,235.0
+TVSMOTOR,2015-03,+,-,+,Growth / Mixed,83.0,-415.0,261.0,-332.0
+TVSMOTOR,2016-03,+,-,-,Shareholder Returns,936.0,-605.0,-319.0,331.0
+TVSMOTOR,2017-03,+,-,-,Shareholder Returns,689.0,-709.0,-59.0,-20.0
+TVSMOTOR,2018-03,+,-,+,Growth / Mixed,354.0,-1095.0,897.0,-741.0
+TVSMOTOR,2019-03,-,-,+,Growth Funded by Debt,-918.0,-1104.0,2210.0,-2022.0
+TVSMOTOR,2020-03,+,-,+,Growth / Mixed,373.0,-1090.0,1619.0,-717.0
+TVSMOTOR,2021-03,+,-,+,Growth / Mixed,1151.0,-882.0,264.0,269.0
+TVSMOTOR,2022-03,-,-,+,Growth Funded by Debt,-1575.0,-1471.0,2918.0,-3046.0
+TVSMOTOR,2023-03,-,-,+,Growth Funded by Debt,-4405.0,-1308.0,6118.0,-5713.0
+TVSMOTOR,2024-03,-,-,+,Growth Funded by Debt,-1253.0,-1001.0,2759.0,-2254.0

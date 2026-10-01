@@ -1,0 +1,93 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+ABB,0,High-Quality Compounders,0.3871
+ADANIENSOL,0,High-Quality Compounders,1.3976
+ADANIENT,0,High-Quality Compounders,1.1239
+ADANIGREEN,4,Leveraged Financials & Lending Giants,2.6429
+ADANIPORTS,1,Defensive Dividend Payers,1.1708
+ADANIPOWER,0,High-Quality Compounders,1.4597
+AMBUJACEM,0,High-Quality Compounders,1.0344
+APOLLOHOSP,0,High-Quality Compounders,0.8951
+ASIANPAINT,0,High-Quality Compounders,0.2904
+ATGL,0,High-Quality Compounders,1.4084
+AXISBANK,4,Leveraged Financials & Lending Giants,0.8518
+BAJAJ-AUTO,0,High-Quality Compounders,0.5053
+BAJAJFINSV,4,Leveraged Financials & Lending Giants,0.9737
+BAJAJHLDNG,1,Defensive Dividend Payers,2.4658
+BAJFINANCE,4,Leveraged Financials & Lending Giants,1.5352
+BANKBARODA,4,Leveraged Financials & Lending Giants,1.7596
+BEL,2,Emerging Growth / Capital Champions,1.1352
+BHARTIARTL,1,Defensive Dividend Payers,1.2474
+BHEL,0,High-Quality Compounders,2.2995
+BOSCHLTD,0,High-Quality Compounders,1.0343
+BPCL,0,High-Quality Compounders,0.7155
+BRITANNIA,0,High-Quality Compounders,0.4071
+CANBK,4,Leveraged Financials & Lending Giants,2.6762
+CHOLAFIN,4,Leveraged Financials & Lending Giants,0.7854
+CIPLA,1,Defensive Dividend Payers,1.0282
+COALINDIA,1,Defensive Dividend Payers,1.2262
+DABUR,0,High-Quality Compounders,0.5688
+DIVISLAB,0,High-Quality Compounders,0.5351
+DLF,0,High-Quality Compounders,2.6385
+DMART,0,High-Quality Compounders,1.3189
+DRREDDY,0,High-Quality Compounders,1.1453
+EICHERMOT,0,High-Quality Compounders,1.1064
+GAIL,3,Value Cyclicals & Turnarounds,1.1183
+GODREJCP,0,High-Quality Compounders,0.7171
+GRASIM,0,High-Quality Compounders,0.3401
+HAL,2,Emerging Growth / Capital Champions,1.1352
+HAVELLS,0,High-Quality Compounders,0.4406
+HCLTECH,0,High-Quality Compounders,2.2634
+HDFCBANK,4,Leveraged Financials & Lending Giants,0.6622
+HDFCLIFE,1,Defensive Dividend Payers,1.3203
+HEROMOTOCO,1,Defensive Dividend Payers,1.66
+HINDALCO,1,Defensive Dividend Payers,0.6377
+HINDUNILVR,1,Defensive Dividend Payers,0.7411
+ICICIBANK,4,Leveraged Financials & Lending Giants,0.771
+ICICIGI,1,Defensive Dividend Payers,1.8443
+ICICIPRULI,1,Defensive Dividend Payers,1.0228
+INDIGO,1,Defensive Dividend Payers,1.8225
+INDUSINDBK,4,Leveraged Financials & Lending Giants,0.6348
+INFY,0,High-Quality Compounders,0.3431
+IOC,0,High-Quality Compounders,0.7559
+IRCTC,0,High-Quality Compounders,1.0775
+IRFC,4,Leveraged Financials & Lending Giants,1.9749
+ITC,0,High-Quality Compounders,0.9379
+JINDALSTEL,0,High-Quality Compounders,1.3874
+JIOFIN,1,Defensive Dividend Payers,0.7821
+JSWENERGY,0,High-Quality Compounders,1.4967
+JSWSTEEL,0,High-Quality Compounders,0.6019
+KOTAKBANK,1,Defensive Dividend Payers,1.4553
+LICI,0,High-Quality Compounders,1.7539
+LODHA,0,High-Quality Compounders,2.3228
+LT,0,High-Quality Compounders,0.3296
+LTIM,0,High-Quality Compounders,2.5886
+M&M,0,High-Quality Compounders,0.8746
+MARUTI,0,High-Quality Compounders,0.3896
+MOTHERSON,0,High-Quality Compounders,1.1272
+NAUKRI,0,High-Quality Compounders,0.8621
+NESTLEIND,0,High-Quality Compounders,0.5114
+NHPC,3,Value Cyclicals & Turnarounds,1.1183
+NTPC,0,High-Quality Compounders,0.674
+ONGC,0,High-Quality Compounders,0.7817
+PFC,4,Leveraged Financials & Lending Giants,1.2765
+PIDILITIND,0,High-Quality Compounders,0.4617
+PNB,4,Leveraged Financials & Lending Giants,1.3812
+POWERGRID,1,Defensive Dividend Payers,1.1803
+RECLTD,1,Defensive Dividend Payers,2.0814
+RELIANCE,0,High-Quality Compounders,0.4262
+SBILIFE,0,High-Quality Compounders,1.9688
+SBIN,0,High-Quality Compounders,1.8234
+SHREECEM,0,High-Quality Compounders,0.2805
+SHRIRAMFIN,4,Leveraged Financials & Lending Giants,1.3392
+SIEMENS,0,High-Quality Compounders,0.4614
+SUNPHARMA,0,High-Quality Compounders,0.6504
+TATACONSUM,0,High-Quality Compounders,1.7353
+TATAMOTORS,0,High-Quality Compounders,0.627
+TATAPOWER,0,High-Quality Compounders,0.8747
+TATASTEEL,0,High-Quality Compounders,0.6534
+TCS,0,High-Quality Compounders,0.369
+TECHM,0,High-Quality Compounders,0.6366
+TITAN,0,High-Quality Compounders,1.3833
+TORNTPHARM,0,High-Quality Compounders,0.8271
+TRENT,0,High-Quality Compounders,3.3966
+TVSMOTOR,0,High-Quality Compounders,1.2151

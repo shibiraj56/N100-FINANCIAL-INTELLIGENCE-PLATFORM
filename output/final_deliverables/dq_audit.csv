@@ -1,0 +1,13 @@
+dataset,table_name,rows_in,rows_loaded,columns,rejected,status,timestamp,runtime_s
+companies,companies,92,92,12,0,SUCCESS,2026-10-01T13:49:59.940918,0.0184
+sectors,sectors,92,92,6,0,SUCCESS,2026-10-01T13:49:59.940918,0.0124
+profitandloss,profitandloss,1276,1276,15,0,SUCCESS,2026-10-01T13:49:59.940918,0.0329
+balancesheet,balancesheet,1312,1312,13,0,SUCCESS,2026-10-01T13:49:59.940918,0.0372
+cashflow,cashflow,1187,1187,7,0,SUCCESS,2026-10-01T13:49:59.940918,0.0205
+financial_ratios,financial_ratios,1184,1184,16,0,SUCCESS,2026-10-01T13:49:59.940918,0.0343
+market_cap,market_cap,552,552,9,0,SUCCESS,2026-10-01T13:49:59.940918,0.0168
+stock_prices,stock_prices,5520,5520,9,0,SUCCESS,2026-10-01T13:49:59.940918,0.077
+documents,documents,1585,1585,4,0,SUCCESS,2026-10-01T13:49:59.940918,0.024
+analysis,analysis,20,20,6,0,SUCCESS,2026-10-01T13:49:59.940918,0.0107
+prosandcons,prosandcons,16,16,4,0,SUCCESS,2026-10-01T13:49:59.940918,0.0107
+peer_groups,peer_groups,56,56,4,0,SUCCESS,2026-10-01T13:49:59.940918,0.0112

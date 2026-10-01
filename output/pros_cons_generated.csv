@@ -1,0 +1,628 @@
+company_id,rule_id,rule_type,text,confidence_score
+ABB,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+ABB,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ABB,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+ABB,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+ABB,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+ADANIENSOL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+ADANIENSOL,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+ADANIENSOL,CON-01,CON,Debt-to-equity ratio of 1.86 is moderately elevated and warrants monitoring,65
+ADANIENSOL,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+ADANIENSOL,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+ADANIENSOL,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+ADANIENT,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+ADANIENT,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+ADANIENT,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+ADANIENT,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+ADANIENT,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+ADANIENT,CON-01,CON,Debt-to-equity ratio of 1.92 is moderately elevated and warrants monitoring,65
+ADANIENT,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+ADANIENT,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+ADANIGREEN,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+ADANIGREEN,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+ADANIGREEN,CON-01,CON,Debt-to-equity ratio of 6.38 is elevated for a non-financial company and warrants monitoring,90
+ADANIGREEN,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+ADANIGREEN,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+ADANIPORTS,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+ADANIPORTS,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+ADANIPORTS,CON-01,CON,Debt-to-equity ratio of 0.88 is moderately elevated and warrants monitoring,65
+ADANIPORTS,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+ADANIPORTS,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+ADANIPOWER,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ADANIPOWER,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+ADANIPOWER,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+ADANIPOWER,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+ADANIPOWER,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+ADANIPOWER,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+ADANIPOWER,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+AMBUJACEM,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+AMBUJACEM,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+AMBUJACEM,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+AMBUJACEM,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+AMBUJACEM,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+AMBUJACEM,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+APOLLOHOSP,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+APOLLOHOSP,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+APOLLOHOSP,CON-01,CON,Debt-to-equity ratio of 0.98 is moderately elevated and warrants monitoring,65
+APOLLOHOSP,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+APOLLOHOSP,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+APOLLOHOSP,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+ASIANPAINT,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ASIANPAINT,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+ASIANPAINT,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+ASIANPAINT,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+ASIANPAINT,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+ASIANPAINT,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+ASIANPAINT,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+ATGL,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+ATGL,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+ATGL,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+ATGL,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+ATGL,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+AXISBANK,PRO-06,PRO,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+AXISBANK,PRO-05,PRO,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+AXISBANK,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+AXISBANK,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+AXISBANK,PRO-04,PRO,Strong revenue growth above 15% CAGR reflects solid business expansion momentum,80
+AXISBANK,PRO-01,PRO,High return on equity demonstrates strong capital efficiency,70
+AXISBANK,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+AXISBANK,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+AXISBANK,CON-10,CON,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,85
+AXISBANK,CON-02,CON,Negative free cash flow in the latest fiscal year raises concern about cash generation quality,70
+AXISBANK,CON-01,CON,Financial leverage of 8.25x is on the higher side within the lending and finance sector,65
+AXISBANK,CON-06,CON,Moderate interest coverage ratio indicates debt servicing sensitivity to earnings volatility,65
+AXISBANK,CON-07,CON,Low dividend payout ratio provides limited current cash return to shareholders,65
+BAJAJ-AUTO,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BAJAJ-AUTO,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+BAJAJ-AUTO,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+BAJAJ-AUTO,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+BAJAJ-AUTO,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+BAJAJ-AUTO,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BAJAJ-AUTO,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+BAJAJ-AUTO,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+BAJAJFINSV,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BAJAJFINSV,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BAJAJFINSV,CON-02,CON,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+BAJAJHLDNG,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+BAJAJHLDNG,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+BAJAJHLDNG,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+BAJAJHLDNG,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+BAJAJHLDNG,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+BAJAJHLDNG,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+BAJFINANCE,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+BAJFINANCE,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BAJFINANCE,CON-02,CON,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+BAJFINANCE,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+BANKBARODA,PRO-04,PRO,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90
+BANKBARODA,PRO-06,PRO,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BANKBARODA,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+BANKBARODA,PRO-05,PRO,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BANKBARODA,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+BANKBARODA,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+BANKBARODA,PRO-01,PRO,High return on equity demonstrates strong capital efficiency,70
+BANKBARODA,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BANKBARODA,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+BANKBARODA,CON-10,CON,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,85
+BANKBARODA,CON-02,CON,Negative free cash flow in the latest fiscal year raises concern about cash generation quality,70
+BANKBARODA,CON-01,CON,Financial leverage of 12.14x is on the higher side within the lending and finance sector,65
+BANKBARODA,CON-06,CON,Moderate interest coverage ratio indicates debt servicing sensitivity to earnings volatility,65
+BEL,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BEL,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+BEL,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+BEL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BEL,CON-01,CON,Debt-to-equity ratio of 0.86 is moderately elevated and warrants monitoring,65
+BEL,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+BEL,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+BHARTIARTL,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+BHARTIARTL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BHARTIARTL,CON-01,CON,Debt-to-equity ratio of 2.59 is elevated for a non-financial company and warrants monitoring,90
+BHARTIARTL,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+BHARTIARTL,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+BHARTIARTL,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+BHARTIARTL,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+BHEL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BHEL,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+BHEL,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+BHEL,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+BHEL,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+BHEL,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+BHEL,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+BOSCHLTD,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+BOSCHLTD,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+BOSCHLTD,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+BOSCHLTD,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+BOSCHLTD,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+BOSCHLTD,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+BOSCHLTD,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+BPCL,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+BPCL,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+BPCL,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+BPCL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BPCL,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+BPCL,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+BPCL,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+BRITANNIA,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BRITANNIA,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+BRITANNIA,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+BRITANNIA,CON-01,CON,Debt-to-equity ratio of 0.86 is moderately elevated and warrants monitoring,65
+BRITANNIA,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+BRITANNIA,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+BRITANNIA,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+BRITANNIA,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+CANBK,PRO-04,PRO,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90
+CANBK,PRO-06,PRO,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+CANBK,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+CANBK,PRO-05,PRO,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+CANBK,PRO-08,PRO,Consistent dividend yield above 2% backed by positive free cash flow,85
+CANBK,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+CANBK,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+CANBK,PRO-01,PRO,High return on equity demonstrates strong capital efficiency,70
+CANBK,PRO-02,PRO,Positive free cash flow generation signals healthy business fundamentals,65
+CANBK,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+CANBK,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+CANBK,CON-10,CON,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,85
+CANBK,CON-01,CON,Financial leverage of 14.87x is on the higher side within the lending and finance sector,65
+CANBK,CON-06,CON,Moderate interest coverage ratio indicates debt servicing sensitivity to earnings volatility,65
+CHOLAFIN,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+CHOLAFIN,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+CHOLAFIN,CON-02,CON,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+CHOLAFIN,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+CHOLAFIN,CON-01,CON,Financial leverage of 7.38x is on the higher side within the lending and finance sector,65
+CIPLA,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+CIPLA,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+CIPLA,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+CIPLA,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+CIPLA,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+CIPLA,CON-03,CON,Operating margins declining over recent years suggest pricing or cost pressure,80
+CIPLA,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+COALINDIA,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+COALINDIA,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+COALINDIA,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+COALINDIA,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+COALINDIA,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+COALINDIA,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+COALINDIA,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+DABUR,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+DABUR,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+DABUR,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+DABUR,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+DABUR,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+DABUR,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+DIVISLAB,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+DIVISLAB,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+DIVISLAB,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+DIVISLAB,CON-03,CON,Operating margins declining over recent years suggest pricing or cost pressure,80
+DIVISLAB,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+DIVISLAB,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+DIVISLAB,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+DLF,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+DLF,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+DLF,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+DLF,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+DLF,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+DLF,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+DMART,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+DMART,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+DMART,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+DMART,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+DMART,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+DMART,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+DRREDDY,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+DRREDDY,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+DRREDDY,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+DRREDDY,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+DRREDDY,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+DRREDDY,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+DRREDDY,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+EICHERMOT,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+EICHERMOT,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+EICHERMOT,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+EICHERMOT,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+EICHERMOT,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+EICHERMOT,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+GAIL,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+GAIL,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+GAIL,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+GAIL,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+GAIL,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+GODREJCP,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+GODREJCP,CON-04,CON,Company reported a net loss in the most recent financial year,95
+GODREJCP,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+GODREJCP,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+GODREJCP,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+GRASIM,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+GRASIM,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+GRASIM,CON-01,CON,Debt-to-equity ratio of 1.70 is moderately elevated and warrants monitoring,65
+GRASIM,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+GRASIM,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+GRASIM,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+GRASIM,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+HAL,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HAL,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+HAL,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+HAL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+HAL,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+HAVELLS,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+HAVELLS,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+HAVELLS,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+HAVELLS,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+HAVELLS,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+HAVELLS,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+HAVELLS,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+HCLTECH,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HCLTECH,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+HCLTECH,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+HCLTECH,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+HCLTECH,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+HCLTECH,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+HCLTECH,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+HDFCBANK,PRO-04,PRO,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90
+HDFCBANK,PRO-06,PRO,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+HDFCBANK,PRO-05,PRO,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+HDFCBANK,PRO-08,PRO,Consistent dividend yield above 2% backed by positive free cash flow,85
+HDFCBANK,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+HDFCBANK,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+HDFCBANK,PRO-02,PRO,Positive free cash flow generation signals healthy business fundamentals,65
+HDFCBANK,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+HDFCBANK,CON-06,CON,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+HDFCBANK,CON-10,CON,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,85
+HDFCBANK,CON-01,CON,Financial leverage of 6.81x is on the higher side within the lending and finance sector,65
+HDFCLIFE,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+HDFCLIFE,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+HDFCLIFE,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+HEROMOTOCO,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+HEROMOTOCO,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+HEROMOTOCO,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+HEROMOTOCO,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+HEROMOTOCO,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+HEROMOTOCO,CON-03,CON,Operating margins declining over recent years suggest pricing or cost pressure,80
+HEROMOTOCO,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+HINDALCO,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+HINDALCO,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+HINDALCO,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+HINDALCO,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+HINDALCO,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+HINDALCO,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+HINDUNILVR,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+HINDUNILVR,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+HINDUNILVR,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+HINDUNILVR,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+HINDUNILVR,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+HINDUNILVR,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+ICICIBANK,PRO-04,PRO,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90
+ICICIBANK,PRO-06,PRO,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ICICIBANK,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+ICICIBANK,PRO-05,PRO,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ICICIBANK,PRO-08,PRO,Consistent dividend yield above 2% backed by positive free cash flow,85
+ICICIBANK,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+ICICIBANK,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+ICICIBANK,PRO-01,PRO,High return on equity demonstrates strong capital efficiency,70
+ICICIBANK,PRO-02,PRO,Positive free cash flow generation signals healthy business fundamentals,65
+ICICIBANK,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+ICICIBANK,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+ICICIBANK,CON-06,CON,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+ICICIBANK,CON-10,CON,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,85
+ICICIBANK,CON-01,CON,Financial leverage of 6.45x is on the higher side within the lending and finance sector,65
+ICICIGI,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+ICICIGI,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+ICICIGI,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+ICICIGI,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+ICICIGI,CON-03,CON,Operating margins declining over recent years suggest pricing or cost pressure,80
+ICICIGI,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+ICICIPRULI,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+ICICIPRULI,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+ICICIPRULI,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+ICICIPRULI,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+INDIGO,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+INDIGO,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+INDIGO,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+INDIGO,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+INDIGO,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+INDIGO,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+INDUSINDBK,PRO-04,PRO,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90
+INDUSINDBK,PRO-06,PRO,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+INDUSINDBK,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+INDUSINDBK,PRO-05,PRO,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+INDUSINDBK,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+INDUSINDBK,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+INDUSINDBK,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+INDUSINDBK,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+INDUSINDBK,CON-10,CON,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,85
+INDUSINDBK,CON-02,CON,Negative free cash flow in the latest fiscal year raises concern about cash generation quality,70
+INDUSINDBK,CON-01,CON,Financial leverage of 6.89x is on the higher side within the lending and finance sector,65
+INDUSINDBK,CON-06,CON,Moderate interest coverage ratio indicates debt servicing sensitivity to earnings volatility,65
+INFY,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+INFY,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+INFY,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+INFY,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+INFY,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+INFY,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+INFY,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+INFY,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+IOC,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+IOC,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+IOC,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+IOC,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+IOC,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+IOC,CON-01,CON,Debt-to-equity ratio of 0.90 is moderately elevated and warrants monitoring,65
+IOC,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+IOC,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+IOC,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+IRCTC,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+IRCTC,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+IRCTC,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+IRCTC,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+IRCTC,CON-03,CON,Operating margins declining over recent years suggest pricing or cost pressure,80
+IRCTC,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+IRFC,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+IRFC,CON-01,CON,Financial leverage of 7.83x is on the higher side within the lending and finance sector,65
+ITC,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+ITC,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ITC,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+ITC,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+ITC,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+ITC,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+ITC,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+ITC,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+JINDALSTEL,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+JINDALSTEL,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+JINDALSTEL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+JINDALSTEL,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+JINDALSTEL,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+JINDALSTEL,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+JIOFIN,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+JIOFIN,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+JIOFIN,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+JIOFIN,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+JIOFIN,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+JIOFIN,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+JSWENERGY,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+JSWENERGY,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+JSWENERGY,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+JSWENERGY,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+JSWENERGY,CON-01,CON,Debt-to-equity ratio of 1.10 is moderately elevated and warrants monitoring,65
+JSWENERGY,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+JSWSTEEL,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+JSWSTEEL,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+JSWSTEEL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+JSWSTEEL,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+JSWSTEEL,CON-01,CON,Debt-to-equity ratio of 1.20 is moderately elevated and warrants monitoring,65
+JSWSTEEL,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+JSWSTEEL,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+KOTAKBANK,PRO-06,PRO,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+KOTAKBANK,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+KOTAKBANK,PRO-05,PRO,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+KOTAKBANK,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+KOTAKBANK,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+KOTAKBANK,PRO-04,PRO,Strong revenue growth above 15% CAGR reflects solid business expansion momentum,80
+KOTAKBANK,PRO-08,PRO,Consistent dividend yield backed by positive free cash flow,70
+KOTAKBANK,PRO-02,PRO,Positive free cash flow generation signals healthy business fundamentals,65
+KOTAKBANK,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+KOTAKBANK,CON-06,CON,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+KOTAKBANK,CON-10,CON,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,85
+KOTAKBANK,CON-07,CON,Low dividend payout ratio provides limited current cash return to shareholders,65
+KOTAKBANK,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+LICI,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+LICI,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+LICI,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+LICI,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+LICI,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+LICI,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+LICI,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+LICI,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+LODHA,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+LODHA,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+LODHA,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+LODHA,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+LODHA,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+LT,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+LT,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+LT,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+LT,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+LT,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+LT,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+LT,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+LT,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+LT,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+LTIM,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+LTIM,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+LTIM,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+LTIM,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+LTIM,CON-03,CON,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,90
+LTIM,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+LTIM,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+M&M,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+M&M,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+M&M,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+M&M,CON-01,CON,Debt-to-equity ratio of 1.66 is moderately elevated and warrants monitoring,65
+M&M,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+M&M,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+MARUTI,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+MARUTI,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+MARUTI,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+MARUTI,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+MARUTI,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+MARUTI,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+MARUTI,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+MOTHERSON,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+MOTHERSON,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+MOTHERSON,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+MOTHERSON,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+MOTHERSON,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+MOTHERSON,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+MOTHERSON,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+NAUKRI,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+NAUKRI,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+NAUKRI,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+NAUKRI,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+NESTLEIND,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+NESTLEIND,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+NESTLEIND,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+NESTLEIND,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+NESTLEIND,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+NESTLEIND,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+NHPC,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+NHPC,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+NHPC,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+NHPC,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+NHPC,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+NHPC,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+NHPC,CON-01,CON,Debt-to-equity ratio of 0.85 is moderately elevated and warrants monitoring,65
+NHPC,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+NHPC,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+NHPC,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+NTPC,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+NTPC,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+NTPC,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+NTPC,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+NTPC,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+NTPC,CON-01,CON,Debt-to-equity ratio of 1.44 is moderately elevated and warrants monitoring,65
+NTPC,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+ONGC,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+ONGC,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+ONGC,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+ONGC,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+ONGC,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+ONGC,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+ONGC,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+PFC,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PFC,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+PFC,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+PFC,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+PFC,CON-01,CON,Financial leverage of 8.27x is on the higher side within the lending and finance sector,65
+PFC,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+PIDILITIND,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+PIDILITIND,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+PIDILITIND,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+PIDILITIND,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+PIDILITIND,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+PIDILITIND,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+PIDILITIND,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+PNB,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PNB,PRO-04,PRO,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90
+PNB,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+PNB,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+PNB,CON-02,CON,Negative free cash flow in the latest fiscal year raises concern about cash generation quality,70
+POWERGRID,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+POWERGRID,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+POWERGRID,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+POWERGRID,CON-01,CON,Debt-to-equity ratio of 1.33 is moderately elevated and warrants monitoring,65
+POWERGRID,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+POWERGRID,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+RECLTD,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+RECLTD,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+RECLTD,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+RECLTD,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+RECLTD,CON-02,CON,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+RECLTD,CON-01,CON,Financial leverage of 6.58x is on the higher side within the lending and finance sector,65
+RECLTD,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+RELIANCE,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+RELIANCE,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+RELIANCE,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+RELIANCE,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+SBILIFE,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+SBILIFE,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+SBILIFE,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+SBILIFE,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+SBIN,PRO-06,PRO,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+SBIN,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+SBIN,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+SBIN,PRO-04,PRO,Strong revenue growth above 15% CAGR reflects solid business expansion momentum,80
+SBIN,PRO-02,PRO,Positive free cash flow generation signals healthy business fundamentals,65
+SBIN,CON-06,CON,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+SBIN,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+SBIN,CON-12,CON,Single-digit 5-year revenue CAGR of 11.6% suggests moderate top-line expansion momentum,65
+SHREECEM,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+SHREECEM,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+SHREECEM,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+SHREECEM,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+SHREECEM,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+SHRIRAMFIN,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+SHRIRAMFIN,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+SHRIRAMFIN,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+SHRIRAMFIN,CON-02,CON,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+SIEMENS,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+SIEMENS,PRO-07,PRO,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+SIEMENS,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+SIEMENS,PRO-08,PRO,Consistent dividend yield above 2% backed by positive free cash flow,85
+SIEMENS,PRO-09,PRO,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+SIEMENS,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,85
+SIEMENS,PRO-04,PRO,Strong revenue growth above 15% CAGR reflects solid business expansion momentum,80
+SIEMENS,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+SIEMENS,PRO-06,PRO,Net profit compounding at healthy double-digit rate creates significant shareholder value,75
+SIEMENS,PRO-01,PRO,High return on equity demonstrates strong capital efficiency,70
+SIEMENS,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+SIEMENS,CON-03,CON,Operating margin of 14.0% indicates relatively thin pricing cushion,65
+SIEMENS,CON-10,CON,Moderate return on capital employed of 17.7% indicates average capital productivity,65
+SIEMENS,CON-12,CON,Single-digit 5-year revenue CAGR of 11.2% suggests moderate top-line expansion momentum,65
+SUNPHARMA,PRO-03,PRO,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+SUNPHARMA,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+SUNPHARMA,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+SUNPHARMA,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+TATACONSUM,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+TATACONSUM,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+TATACONSUM,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+TATACONSUM,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+TATACONSUM,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+TATAMOTORS,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+TATAMOTORS,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+TATAMOTORS,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+TATAMOTORS,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+TATAMOTORS,CON-01,CON,Debt-to-equity ratio of 1.05 is moderately elevated and warrants monitoring,65
+TATAMOTORS,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+TATAMOTORS,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65
+TATAPOWER,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+TATAPOWER,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+TATAPOWER,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+TATAPOWER,CON-01,CON,Debt-to-equity ratio of 1.73 is moderately elevated and warrants monitoring,65
+TATAPOWER,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+TATAPOWER,CON-08,CON,Year-over-year increase in debt-to-equity ratio signals increasing leverage,65
+TATASTEEL,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+TATASTEEL,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+TATASTEEL,CON-04,CON,Company reported a net loss in the most recent financial year,95
+TATASTEEL,CON-05,CON,Revenue contraction over 2 consecutive years indicates demand weakness or market share loss,90
+TATASTEEL,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+TATASTEEL,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+TATASTEEL,CON-03,CON,Operating margins declining over recent years suggest pricing or cost pressure,80
+TATASTEEL,CON-01,CON,Debt-to-equity ratio of 1.10 is moderately elevated and warrants monitoring,65
+TATASTEEL,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+TATASTEEL,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+TCS,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TCS,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+TCS,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+TCS,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+TCS,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+TCS,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+TCS,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+TECHM,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+TECHM,PRO-03,PRO,Conservative leverage profile provides strong financial flexibility,75
+TECHM,CON-03,CON,Operating margins declining over recent years suggest pricing or cost pressure,80
+TECHM,CON-05,CON,Revenue contraction in the latest financial year indicates demand softness,70
+TECHM,CON-02,CON,Free cash flow declined year-over-year indicating elevated capital absorption,65
+TECHM,CON-04,CON,Net profit contraction in the latest financial year warrants monitoring,65
+TECHM,CON-09,CON,Earnings per share contraction in latest year reflects near-term earnings headwind,65
+TITAN,PRO-01,PRO,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TITAN,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+TITAN,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+TITAN,CON-01,CON,Debt-to-equity ratio of 2.22 is elevated for a non-financial company and warrants monitoring,90
+TITAN,CON-08,CON,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,90
+TITAN,CON-11,CON,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,90
+TITAN,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+TITAN,CON-03,CON,Operating margin compression in the latest fiscal year suggests pricing or cost pressure,65
+TORNTPHARM,PRO-02,PRO,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+TORNTPHARM,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+TORNTPHARM,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+TORNTPHARM,PRO-10,PRO,Return on equity improving in the latest fiscal year shows strengthening business quality,65
+TORNTPHARM,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+TRENT,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+TRENT,PRO-02,PRO,Strong free cash flow generation over recent years signals healthy business fundamentals,75
+TRENT,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+TRENT,PRO-12,PRO,Growing asset base reflects continuing business expansion,65
+TRENT,CON-02,CON,Limited visibility into historical free cash flow conversion warrants monitoring,65
+TVSMOTOR,PRO-10,PRO,Return on equity improving for 3 consecutive years shows strengthening business quality,90
+TVSMOTOR,PRO-12,PRO,Growing asset base funded by internal accruals reflects self-sustaining growth,80
+TVSMOTOR,PRO-01,PRO,Consistently high return on equity above 15% demonstrates exceptional capital efficiency,75
+TVSMOTOR,PRO-11,PRO,Revenue growing slower than profits shows improving operating leverage and scale benefits,70
+TVSMOTOR,CON-02,CON,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+TVSMOTOR,CON-01,CON,Debt-to-equity ratio of 1.88 is moderately elevated and warrants monitoring,65
+TVSMOTOR,CON-11,CON,Net debt exceeding 1.0x EBITDA warrants close monitoring of cash conversion,65

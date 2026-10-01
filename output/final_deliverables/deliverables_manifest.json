@@ -1,0 +1,232 @@
+[
+  {
+    "deliverable_number": 1,
+    "filename": "data/nifty100.db",
+    "archive_target": "nifty100.db",
+    "file_size_bytes": 2031616,
+    "file_size_human": "1.94 MB",
+    "sha256_hash": "13d3cebaaf1732c8938669a73954967d5b173de9ebe736128df26cc027800f20",
+    "sprint": "Sprint 1 - Database Architecture & ETL",
+    "description": "Master SQLite 3 relational database containing 10 normalized tables with B-tree composite indexes."
+  },
+  {
+    "deliverable_number": 2,
+    "filename": "output/dq_audit.csv",
+    "archive_target": "dq_audit.csv",
+    "file_size_bytes": 1024,
+    "file_size_human": "1.00 KB",
+    "sha256_hash": "b8c6277fd5d00e84e88824eaa6fe3694fafc4fa8d88dcb75fed6633791cc8608",
+    "sprint": "Sprint 1 - Database Architecture & ETL",
+    "description": "Comprehensive audit log of 14 Data Quality rule executions (DQ01 - DQ14)."
+  },
+  {
+    "deliverable_number": 3,
+    "filename": "output/ratio_edge_cases.log",
+    "archive_target": "ratio_edge_cases.log",
+    "file_size_bytes": 42813,
+    "file_size_human": "41.81 KB",
+    "sha256_hash": "d4a304a1e210687f3214805fff47bdd99539171f30801e2e2d3bf0a0bfad9fea",
+    "sprint": "Sprint 2 - Financial Ratio Engine",
+    "description": "Log of edge cases handled by Ratio Engine (negative equity, bank carve-outs, CAGR turnaround flags)."
+  },
+  {
+    "deliverable_number": 4,
+    "filename": "output/screener_output.xlsx",
+    "archive_target": "screener_output.xlsx",
+    "file_size_bytes": 26412,
+    "file_size_human": "25.79 KB",
+    "sha256_hash": "24a1ca2519bd59d0d3589e25342c5c440b4431db627e074b056aa1f1a8cfba5b",
+    "sprint": "Sprint 3 - Screener & Peer Comparison Engine",
+    "description": "Excel workbook containing full screening outputs for all 6 canonical preset strategies."
+  },
+  {
+    "deliverable_number": 5,
+    "filename": "output/peer_comparison.xlsx",
+    "archive_target": "peer_comparison.xlsx",
+    "file_size_bytes": 25525,
+    "file_size_human": "24.93 KB",
+    "sha256_hash": "c93436fcc7a3d021d08f9251b0aae697f9170a2d618817a069c5def028b2576c",
+    "sprint": "Sprint 3 - Screener & Peer Comparison Engine",
+    "description": "Excel model containing cross-sectional percentile rankings for all 11 peer sectors across 10 metrics."
+  },
+  {
+    "deliverable_number": 6,
+    "filename": "output/valuation_summary.xlsx",
+    "archive_target": "valuation_summary.xlsx",
+    "file_size_bytes": 12087,
+    "file_size_human": "11.80 KB",
+    "sha256_hash": "7b1f39b2e61d56c1f0c9f59b86a051f5398bd6b8f196044e58de28471d8e4b70",
+    "sprint": "Sprint 4 - Dashboard & Valuation Module",
+    "description": "Multi-year valuation model with historical multiples (P/E, P/B, EV/EBITDA), FCF yields, and discount tags."
+  },
+  {
+    "deliverable_number": 7,
+    "filename": "output/valuation_flags.csv",
+    "archive_target": "valuation_flags.csv",
+    "file_size_bytes": 4024,
+    "file_size_human": "3.93 KB",
+    "sha256_hash": "80cc80c3f031244287238e6cd6fc68127ca9b86d340aa4d12b9149396b9160ed",
+    "sprint": "Sprint 4 - Dashboard & Valuation Module",
+    "description": "CSV dataset of calculated valuation multiples and overvaluation / discount classification flags."
+  },
+  {
+    "deliverable_number": 8,
+    "filename": "output/analysis_parsed.csv",
+    "archive_target": "analysis_parsed.csv",
+    "file_size_bytes": 1729,
+    "file_size_human": "1.69 KB",
+    "sha256_hash": "96310b13f91baddee57f1de64eae1281592441de3e76c71a6c54f894454e940a",
+    "sprint": "Sprint 5 - Intelligence, NLP & PDF Reports",
+    "description": "Structured tabular dataset of regex-parsed financial growth text from company filings."
+  },
+  {
+    "deliverable_number": 9,
+    "filename": "output/pros_cons_generated.csv",
+    "archive_target": "pros_cons_generated.csv",
+    "file_size_bytes": 65674,
+    "file_size_human": "64.13 KB",
+    "sha256_hash": "19169363389423f81189b080bcdf848d86c6b9ef86c1c4e4cba9ee280872b8a7",
+    "sprint": "Sprint 5 - Intelligence, NLP & PDF Reports",
+    "description": "Auto-generated fundamental strengths (Pros) and risk factors (Cons) with confidence scores for 92 companies."
+  },
+  {
+    "deliverable_number": 10,
+    "filename": "output/cashflow_intelligence.xlsx",
+    "archive_target": "cashflow_intelligence.xlsx",
+    "file_size_bytes": 11821,
+    "file_size_human": "11.54 KB",
+    "sha256_hash": "cc04fe83bc5168ce9b68af91b105d1f354993398cc16141d716653b1640cf4e7",
+    "sprint": "Sprint 5 - Intelligence, NLP & PDF Reports",
+    "description": "Forensic cash flow workbook classifying CFO quality, CapEx intensity, and capital allocation patterns."
+  },
+  {
+    "deliverable_number": 11,
+    "filename": "reports/tearsheets",
+    "archive_target": "tearsheets",
+    "file_size_bytes": 7551809,
+    "file_size_human": "7.20 MB",
+    "sha256_hash": "c5492397dfa7cdaed22ac2ca295c6d4bf92b3548d945de88c48775815d0ed8b3",
+    "sprint": "Sprint 5 - Intelligence, NLP & PDF Reports",
+    "description": "Archive of 92 institutional two-page company tearsheet PDFs with zero overflow errors."
+  },
+  {
+    "deliverable_number": 12,
+    "filename": "reports/sector",
+    "archive_target": "sector",
+    "file_size_bytes": 1240168,
+    "file_size_human": "1.18 MB",
+    "sha256_hash": "af9f4c200fd4b69087414229c80796ed5282416508375af649d09a35e1df2b45",
+    "sprint": "Sprint 5 - Intelligence, NLP & PDF Reports",
+    "description": "Archive of 11 comprehensive sector & peer group research PDF reports."
+  },
+  {
+    "deliverable_number": 13,
+    "filename": "reports/portfolio",
+    "archive_target": "portfolio",
+    "file_size_bytes": 19369,
+    "file_size_human": "18.92 KB",
+    "sha256_hash": "8e444647cfb820162942cded4f795c2c068b0d046a3baf7e3faa9c57801f2bc7",
+    "sprint": "Sprint 5 - Intelligence, NLP & PDF Reports",
+    "description": "Master 92-company portfolio intelligence compendium PDF report."
+  },
+  {
+    "deliverable_number": 14,
+    "filename": "reports/elbow_plot.png",
+    "archive_target": "elbow_plot.png",
+    "file_size_bytes": 62142,
+    "file_size_human": "60.69 KB",
+    "sha256_hash": "2be7d626855565fb71fafbab1e45239d8f5a8b65d6f6fea50f8bb435a643900e",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "KMeans inertia elbow curve plot confirming k=5 as the optimal cluster count."
+  },
+  {
+    "deliverable_number": 15,
+    "filename": "reports/correlation_heatmap.png",
+    "archive_target": "correlation_heatmap.png",
+    "file_size_bytes": 113301,
+    "file_size_human": "110.65 KB",
+    "sha256_hash": "c33946d0255398db9a6b5a528043dd1a332bf967e0a21b762785f0e44eacc059",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "Pearson correlation matrix heatmap for 10 core financial KPIs across 92 companies."
+  },
+  {
+    "deliverable_number": 16,
+    "filename": "output/cluster_labels.csv",
+    "archive_target": "cluster_labels.csv",
+    "file_size_bytes": 4239,
+    "file_size_human": "4.14 KB",
+    "sha256_hash": "0f876e9437c7884aace30c1c352f5e7c747bae4a1439f72f089949350cce8e42",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "KMeans clustering assignments for all 92 companies to 5 archetypes with centroid distance metrics."
+  },
+  {
+    "deliverable_number": 17,
+    "filename": "output/outlier_report.csv",
+    "archive_target": "outlier_report.csv",
+    "file_size_bytes": 651,
+    "file_size_human": "0.64 KB",
+    "sha256_hash": "392435bef886b3187d18c271773148e07cc52daede1ee94cc891802d333ec64e",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "Statistical outlier report identifying metrics with sector-relative absolute Z-scores > 3.0."
+  },
+  {
+    "deliverable_number": 18,
+    "filename": "output/portfolio_stats.csv",
+    "archive_target": "portfolio_stats.csv",
+    "file_size_bytes": 625,
+    "file_size_human": "0.61 KB",
+    "sha256_hash": "2785a7d08fe5a79991ef64fdadca045bf564941e00728b86d32065e2a717fd4c",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "Portfolio distribution statistics (P10, P25, P50, P75, P90, Mean, Std) for 10 financial metrics."
+  },
+  {
+    "deliverable_number": 19,
+    "filename": "output/perf_notes.md",
+    "archive_target": "perf_notes.md",
+    "file_size_bytes": 6030,
+    "file_size_human": "5.89 KB",
+    "sha256_hash": "32ad2b346da253837023e58d10e43fae088299f97f3e4fc708870c7c1e3dd05a",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "Benchmark audit report of database query plans, index efficiency, screen load latency, and REST API concurrency."
+  },
+  {
+    "deliverable_number": 20,
+    "filename": "docs/openapi.json",
+    "archive_target": "openapi.json",
+    "file_size_bytes": 31334,
+    "file_size_human": "30.60 KB",
+    "sha256_hash": "fafc04d80433988bdc62801f105ef79880bb5096880783d5e51f9a637cdc603f",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "OpenAPI 3.1 specification schema for all 16 FastAPI REST endpoints under /api/v1."
+  },
+  {
+    "deliverable_number": 21,
+    "filename": "docs/postman_collection.json",
+    "archive_target": "postman_collection.json",
+    "file_size_bytes": 10049,
+    "file_size_human": "9.81 KB",
+    "sha256_hash": "992cb4c5b54bbe84b0c6ebfd1d15e766ceab81bb3d1a6cf9afbe637a7b0f0c20",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "Postman Collection v2.1 export containing all API requests, query parameters, and example tests."
+  },
+  {
+    "deliverable_number": 22,
+    "filename": "reports/pytest_report.html",
+    "archive_target": "pytest_report.html",
+    "file_size_bytes": 231626,
+    "file_size_human": "226.20 KB",
+    "sha256_hash": "2d19732402ca616961bc64423bd632af57ec5dcf843157ecfc06717db8b85ccd",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "Self-contained HTML test execution report showing 214 passing unit & integration tests."
+  },
+  {
+    "deliverable_number": 23,
+    "filename": "docs/analyst_guide.pdf",
+    "archive_target": "analyst_guide.pdf",
+    "file_size_bytes": 239436,
+    "file_size_human": "233.82 KB",
+    "sha256_hash": "b433871175e3b7c56a72d2efe11f59abfd4bb8153c73cd3eb65c7629b1b08c92",
+    "sprint": "Sprint 6 - Clustering & REST API",
+    "description": "Institutional 12-page comprehensive Analyst and Developer Guide with architecture, formulas, and runbook."
+  }
+]
